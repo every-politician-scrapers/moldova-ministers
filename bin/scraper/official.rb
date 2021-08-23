@@ -7,17 +7,21 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      noko.css('.title-wrapper,.title').text.tidy
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('.job-pos,.job').text.split(',').map(&:tidy)
     end
   end
 
   class Members
+    def member_items
+      super.reject { |mem| mem.name.empty? }
+    end
+
     def member_container
-      noko.css('.member')
+      noko.css('.view .field-content')
     end
   end
 end
