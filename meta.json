@@ -1,20 +1,20 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Moldova",
+      "id": "Q217"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
+      "id": "Q107849269",
+      "start": "2021-08-06",
+      "parent": "Q4375974"
     },
     "source": {
-        "url":   "XXX",
-        "title": "XXX",
+        "url":   "https://gov.md/en/profiles/team",
+        "title": "Cabinet Ministers | Government of Republic of Moldova",
         "lang":  {
             "code": "en",
             "wikidata": "Q1860"
         }
     },
-    "agent": "every-politican-scrapers/XXX"
+    "agent": "every-politican-scrapers/moldova-ministers"
 }
