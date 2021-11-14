@@ -21,7 +21,7 @@ class MemberList
     end
 
     def member_container
-      noko.css('.view .field-content')
+      noko.css('.field-content,.team-page-row')
     end
   end
 end
