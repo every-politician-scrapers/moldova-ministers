@@ -1,0 +1,430 @@
+{
+  "title": "Igor Grosu",
+  "pageID": 66153215,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "People from Cahul",
+    "Moldovan MPs 2019–2023",
+    "Presidents of the Moldovan Parliament"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Igor Grosu (born 30 November 1972) is a Moldovan politician who serves as the President of the Parliament of the Republic of Moldova since 29 July 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of the Republic of Moldova"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Igor Grosu"
+                ]
+              }
+            },
+            {
+              "text": "He has been a member of the Moldovan Parliament since March 2019."
+            },
+            {
+              "text": "Grosu has been the acting leader of the Party of Action and Solidarity (PAS) since 9 December 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Party of Action and Solidarity"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "langcode": "ro",
+          "date": "July 2021",
+          "template": "expand language"
+        },
+        {
+          "year": "1972",
+          "month": "11",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Igor Grosu"
+          },
+          "image": {
+            "text": "Igor Grosu 2020.jpg"
+          },
+          "office": {
+            "text": "13th President of the Moldovan Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Moldovan Parliament"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 July 2021"
+          },
+          "birth_date": {
+            "text": "November 30, 1972"
+          },
+          "birth_place": {
+            "text": "Andrușul de Sus, Moldovan SSR, Soviet Union (now Moldova)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrușul de Sus"
+              },
+              {
+                "type": "internal",
+                "page": "Moldovan SSR"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              },
+              {
+                "type": "internal",
+                "page": "Moldova"
+              }
+            ]
+          },
+          "party": {
+            "text": "Party of Action and Solidarity",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Party of Action and Solidarity"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "undefined 🇷🇴 romania",
+            "links": [
+              {
+                "text": "undefined",
+                "type": "internal",
+                "page": "undefined"
+              },
+              {
+                "text": "romania",
+                "type": "internal",
+                "page": "romania"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "15 August 2012"
+          },
+          "primeminister3": {
+            "text": "Vladimir Filat Iurie Leancă Chiril Gaburici Natalia Gherman (acting) Valeriu Streleț",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vladimir Filat"
+              },
+              {
+                "type": "internal",
+                "page": "Iurie Leancă"
+              },
+              {
+                "type": "internal",
+                "page": "Chiril Gaburici"
+              },
+              {
+                "type": "internal",
+                "page": "Natalia Gherman"
+              },
+              {
+                "type": "internal",
+                "page": "Valeriu Streleț"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Nicolae Timofti",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolae Timofti"
+              }
+            ]
+          },
+          "term_end3": {
+            "text": "12 August 2015"
+          },
+          "term_start2": {
+            "text": "9 March 2019"
+          },
+          "office3": {
+            "text": "Deputy Minister of Education",
+            "links": [
+              {
+                "text": "Deputy Minister of Education",
+                "type": "internal",
+                "page": "Ministry of Education, Culture and Research (Moldova)"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Zinaida Greceanîi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Zinaida Greceanîi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Moldovan Parliament",
+            "links": [
+              {
+                "text": "Moldovan Parliament",
+                "type": "internal",
+                "page": "Parliament of the Republic of Moldova"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Ion Șișcanu"
+          },
+          "president": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Aureliu Ciocoi (acting) Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aureliu Ciocoi"
+              },
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career and Political Activity",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Igor Grosu is licensed in History and was an expert in projects for a few years."
+            },
+            {
+              "text": "He became the Deputy Minister of Education of Moldova while the Minister of Education was Maia Sandu.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Maia Sandu"
+                }
+              ]
+            },
+            {
+              "text": "In August 2015, the Prime Minister of Moldova, Valeriu Streleț, appointed Grosu as the Prime Minister's principal consultant for Science, Education, Health Policies and Social Protection.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Valeriu Streleț"
+                }
+              ]
+            },
+            {
+              "text": "The next Prime Minister, Gheorghe Brega, dismissed Grosu a few months after he was appointed.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gheorghe Brega"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When Maia Sandu founded the Action and Solidarity Party (PAS) in 2015-2016, Grosu joined as a founder-member of the party and became the party's General Secretary.",
+              "links": [
+                {
+                  "text": "Action and Solidarity Party",
+                  "type": "internal",
+                  "page": "Party of Action and Solidarity"
+                }
+              ]
+            },
+            {
+              "text": "In the 2019 parliamentary elections, he ran for the ACUM Platforma DA - PAS Electoral Bloc in 20th Constituency-Strășeni but was defeated by the incumbent Prime Minister, Pavel Filip.",
+              "links": [
+                {
+                  "text": "ACUM Platforma DA - PAS Electoral Bloc",
+                  "type": "internal",
+                  "page": "NOW Platform DA and PAS"
+                }
+              ]
+            },
+            {
+              "text": "However, he was elected as deputy from the national list of the ACUM bloc, which had come in 4th place."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He also founded a few non-governmental organizations, such as: Amnesty International Moldova, National Assistance, the Non-Gov Organizations Information Center of Moldova CONTACT (Romanian: Centrul național de asistență și informare a ONG-urilor din Moldova \"CONTACT\"), Pro-Democracy Association (Romanian: Asociația Pro-Democrație), National Youth Council of Moldova (Romanian: Consiliul Național al Tineretului din Moldova), and the Analysis and Evaluation Center of Reform (Romanian: Centrul de analiză și evaluare a reformelor).",
+              "links": [
+                {
+                  "text": "non-governmental organizations",
+                  "type": "internal",
+                  "page": "Non-governmental organization"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Centrul național de asistență și informare a ONG-urilor din Moldova \"CONTACT\"",
+                  "Asociația Pro-Democrație",
+                  "Consiliul Național al Tineretului din Moldova",
+                  "Centrul de analiză și evaluare a reformelor"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2020, after Maia Sandu won the presidential elections and resigned from her quality of party member, Igor Grosu became the Acting President of PAS."
+            },
+            {
+              "text": "Maia Sandu appointed Grosu on March 25, 2021 to form a Government, in trying of dissolving the Tenth Legislative of Moldova."
+            },
+            {
+              "text": "After a parliamentary majority leaved the Parliament, the proposal was automatically rejected."
+            },
+            {
+              "text": "The Parliament was dissolved on April 28, 2021 and snap elections were held on July 11, 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He ran in 2021 parliamentary elections with the first position of party and won the best electoral result of any electoral concurrent in Moldovan history: 52,80% of votes and 63/101 MPs. On July 29, he was voted by 64 MPs to be the President of the Moldovan Parliament and became the first politician in Moldova, as well as the Parliament is the first institution in Moldova, the parliamentary regime being reglementated by the Moldovan Constitution."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2021",
+          "reason": "What does this mean? Is this what he studied?",
+          "template": "clarify"
+        },
+        {
+          "date": "August 2021",
+          "reason": "Does this mean that he was employed as a project manager?",
+          "template": "clarify"
+        },
+        {
+          "date": "August 2021",
+          "reason": "\"Quality of party member\" doesn't make any sense",
+          "template": "clarify"
+        },
+        {
+          "date": "August 2021",
+          "template": "cn"
+        },
+        {
+          "date": "August 2021",
+          "reason": "What is that supposed to mean?",
+          "template": "clarify"
+        },
+        {
+          "date": "August 2021",
+          "reason": "Unclear what this means. I assume \"leaved\" should be \"left\", but what exactly happened?",
+          "template": "clarify"
+        },
+        {
+          "date": "August 2021",
+          "reason": "What does that mean?",
+          "template": "clarify"
+        },
+        {
+          "date": "August 2021",
+          "reason": "What does that mean?",
+          "template": "clarify"
+        },
+        {
+          "date": "August 2021",
+          "reason": "Other politicians came before him. Perhaps this should say \"premier politician\" or something similar?",
+          "template": "clarify"
+        },
+        {
+          "date": "August 2021",
+          "reason": "This sentence doesn't make much sense. Reglementated is not a word.",
+          "template": "clarify"
+        }
+      ],
+      "references": [
+        {
+          "title": "Profile: Igor Grosu",
+          "url": "http://profiles.rise.md/profile.php?id=190126215049&lang=eng",
+          "access-date": "2021-07-29",
+          "website": "profiles.rise.md",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "moldova-bio-stub"
+        }
+      ]
+    }
+  ]
+}

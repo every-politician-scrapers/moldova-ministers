@@ -1,0 +1,164 @@
+{
+  "title": "Marcel Spatari",
+  "pageID": 68392745,
+  "categories": [
+    "1981 births",
+    "Living people",
+    "Politicians from Chișinău",
+    "Government ministers of Moldova"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Marcel Spatari (born 13 August 1981 in Chișinău) is the Minister of Labour and Social Protection of the Republic of Moldova.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chișinău"
+                },
+                {
+                  "text": "Minister of Labour and Social Protection",
+                  "type": "internal",
+                  "page": "Ministry of Labour and Social Protection (Moldova)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of Moldova"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Marcel Spatari"
+                ]
+              }
+            },
+            {
+              "text": ">"
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "one source"
+        },
+        {
+          "year": "1981",
+          "month": "8",
+          "day": "13",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Marcel Spatari"
+          },
+          "office": {
+            "text": "Minister of Labour and Social Protection",
+            "links": [
+              {
+                "text": "Minister of Labour and Social Protection",
+                "type": "internal",
+                "page": "Ministry of Labor, Family, and Social Protection (Moldova)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 August 2021"
+          },
+          "predecessor": {
+            "text": "Stela Grigoraș (2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stela Grigoraș"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 13, 1981"
+          },
+          "birth_place": {
+            "text": "Chișinău, Moldovan SSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chișinău"
+              },
+              {
+                "type": "internal",
+                "page": "Moldovan SSR"
+              }
+            ]
+          },
+          "president": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.euronews.com/2021/07/23/moldova-s-new-government-has-an-old-problem-transnistria-can-it-solve-it",
+          "title": "Can Moldova's new government solve its oldest problem, Transnistria?",
+          "date": "23 July 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://gov.md/ro/content/marcel-spatari",
+          "title": "Marcel Spatari - Ministrul Muncii și Protecției Sociale &#124; GUVERNUL REPUBLICII MOLDOVA",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Note",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "gavrilița cabinet"
+        },
+        {
+          "template": "moldova-bio-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "title": "Iuliana Cantaragiu",
+  "pageID": 68543548,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "Politicians from Chișinău",
+    "Government ministers of Moldova",
+    "Women government ministers of Moldova",
+    "Environment ministers",
+    "21st-century Moldovan politicians",
+    "21st-century women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Iuliana Cantaragiu (born 2 July 1975 in Chișinău) is the Minister of Environment of the Republic of Moldova.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chișinău"
+                },
+                {
+                  "text": "Minister of Environment",
+                  "type": "internal",
+                  "page": "Ministry of Environment (Moldova)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of Moldova"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Iuliana Cantaragiu"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "year": "1975",
+          "month": "7",
+          "day": "2",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Iuliana Cantaragiu"
+          },
+          "office": {
+            "text": "Minister of Environment",
+            "links": [
+              {
+                "text": "Minister of Environment",
+                "type": "internal",
+                "page": "Ministry of Environment (Moldova)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 August 2021"
+          },
+          "predecessor": {
+            "text": "Valeriu Munteanu (2017)",
+            "links": [
+              {
+                "text": "Valeriu Munteanu",
+                "type": "internal",
+                "page": "Valeriu Munteanu (politician)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 2, 1975"
+          },
+          "birth_place": {
+            "text": "Chișinău, Moldovan SSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chișinău"
+              },
+              {
+                "type": "internal",
+                "page": "Moldovan SSR"
+              }
+            ]
+          },
+          "president": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Secretary of State of the Ministry of Agriculture, Regional Development and Environment",
+            "links": [
+              {
+                "text": "Ministry of Agriculture, Regional Development and Environment",
+                "type": "internal",
+                "page": "Ministry of Agriculture and Food Industry (Moldova)"
+              }
+            ]
+          },
+          "president2": {
+            "text": "Igor Dodon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Igor Dodon"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Maia Sandu Ion Chicu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              },
+              {
+                "type": "internal",
+                "page": "Ion Chicu"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "7 August 2019"
+          },
+          "term_end2": {
+            "text": "19 November 2019"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://gov.md/en/content/iuliana-cantaragiu",
+          "title": "Iuliana Cantaragiu - Minister of the Environment &#124; Government of Republic of Moldova",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Note",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "gavrilița cabinet"
+        },
+        {
+          "template": "moldova-bio-stub"
+        }
+      ]
+    }
+  ]
+}

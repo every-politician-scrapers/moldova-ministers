@@ -1,0 +1,162 @@
+{
+  "title": "Iurie Țurcanu",
+  "pageID": 68543389,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Moldovan politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Iurie Țurcanu (born June 21, 1973 ) is a Moldovan politician, expert in the field of electronic government.",
+              "links": [
+                {
+                  "text": "Moldovan",
+                  "type": "internal",
+                  "page": "Moldovans"
+                },
+                {
+                  "text": "electronic government",
+                  "type": "internal",
+                  "page": "electronic government"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Iurie Țurcanu"
+                ]
+              }
+            },
+            {
+              "text": "Since August 2021, he holds the position of Deputy Prime Minister for Digitalization of the Republic of Moldova in the Gavrilița Government.",
+              "links": [
+                {
+                  "text": "Gavrilița Government",
+                  "type": "internal",
+                  "page": "Gavrilița Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2021",
+          "template": "blp sources"
+        },
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use mdy dates"
+        },
+        {
+          "date": "August 2021",
+          "template": "use american english"
+        },
+        {
+          "year": "1973",
+          "month": "06",
+          "day": "21",
+          "template": "birth date and age"
+        },
+        {
+          "template": "ipac",
+          "transcription": "pron,I,u,r,i,e,_,Ț,u,r,c,a,n,u"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office3": {
+            "text": "Deputy Prime Minister for Digitalization",
+            "links": [
+              {
+                "text": "Deputy Prime Minister for Digitalization",
+                "type": "internal",
+                "page": "Cabinet of Moldova"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "6 August 2021"
+          },
+          "birth_date": {
+            "text": "June 21, 1973"
+          },
+          "birth_place": {
+            "text": "Corlăteni, Rîșcani District, Moldovan SSR, USSR",
+            "links": [
+              {
+                "text": "Corlăteni",
+                "type": "internal",
+                "page": "Corlăteni, Rîșcani"
+              },
+              {
+                "type": "internal",
+                "page": "Rîșcani District"
+              },
+              {
+                "type": "internal",
+                "page": "Moldovan SSR"
+              },
+              {
+                "type": "internal",
+                "page": "USSR"
+              }
+            ]
+          },
+          "president3": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://gov.md/ro/content/iurie-turcanu",
+          "title": "Iurie Țurcanu - Viceprim-ministru pentru Digitalizare &#124; GUVERNUL REPUBLICII MOLDOVA",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "gavrilița cabinet"
+        },
+        {
+          "template": "moldova-politician-stub"
+        }
+      ]
+    }
+  ]
+}

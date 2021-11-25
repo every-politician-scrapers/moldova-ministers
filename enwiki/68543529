@@ -1,0 +1,150 @@
+{
+  "title": "Viorel Gherciu",
+  "pageID": 68543529,
+  "categories": [
+    "1969 births",
+    "Living people",
+    "Politicians from Chișinău",
+    "Government ministers of Moldova"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Viorel Gherciu (born 29 November 1969 in Chișinău) is the Minister of Agriculture and Food Industry of the Republic of Moldova.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chișinău"
+                },
+                {
+                  "text": "Minister of Agriculture and Food Industry",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture and Food Industry (Moldova)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of Moldova"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Viorel Gherciu"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "year": "1979",
+          "month": "11",
+          "day": "29",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "template": "ipac",
+          "transcription": "pron,G,h,e,r,c,i,u"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Viorel Gherciu"
+          },
+          "office": {
+            "text": "Minister of Agriculture and Food Industry",
+            "links": [
+              {
+                "text": "Minister of Agriculture and Food Industry",
+                "type": "internal",
+                "page": "Ministry of Agriculture and Food Industry (Moldova)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 August 2021"
+          },
+          "predecessor": {
+            "text": "Ion Perju",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ion Perju"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 29, 1979"
+          },
+          "birth_place": {
+            "text": "Moldovan SSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moldovan SSR"
+              }
+            ]
+          },
+          "president": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://gov.md/ro/content/viorel-gherciu",
+          "title": "Viorel Gherciu - Ministrul Agriculturii și Industriei Alimentare &#124; GUVERNUL REPUBLICII MOLDOVA",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://diez.md/2021/08/06/cv-urile-ministrilor-si-ministrelor-care-fac-parte-din-noul-guvern-al-republicii-moldova/",
+          "title": "CV-urile miniștrilor și ministrelor care fac parte din noul Guvern al Republicii Moldova - #diez",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Note",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "gavrilița cabinet"
+        },
+        {
+          "template": "moldova-bio-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "title": "Ala Nemerenco",
+  "pageID": 66760398,
+  "categories": [
+    "Living people",
+    "1959 births",
+    "Place of birth missing (living people)",
+    "21st-century Moldovan politicians",
+    "Women government ministers of Moldova",
+    "21st-century women politicians",
+    "Moldovan Ministers of Health"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ala Nemerenco (born 21 August 1959) is a Moldovan physician and politician.",
+              "formatting": {
+                "bold": [
+                  "Ala Nemerenco"
+                ]
+              }
+            },
+            {
+              "text": ", she serves as Minister of Health in the cabinet of Prime Minister Natalia Gavrilița.",
+              "links": [
+                {
+                  "text": "Minister of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health, Labour and Social Protection (Moldova)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Natalia Gavrilița"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She served as Minister of Health, Labour and Social Protection from 8 June 2019 to 14 November 2019 in the cabinet of Prime Minister Maia Sandu.",
+              "links": [
+                {
+                  "text": "Minister of Health, Labour and Social Protection",
+                  "type": "internal",
+                  "page": "Ministry of Health, Labour and Social Protection (Moldova)"
+                },
+                {
+                  "text": "the cabinet",
+                  "type": "internal",
+                  "page": "Sandu Cabinet"
+                },
+                {
+                  "type": "internal",
+                  "page": "Maia Sandu"
+                }
+              ]
+            },
+            {
+              "text": "Viorica Dumbrăveanu was appointed as her successor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Viorica Dumbrăveanu"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1959",
+          "month": "8",
+          "day": "21",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "template": "ipac",
+          "transcription": "pron,N,e,m,e,r,e,n,c,o"
+        },
+        {
+          "list": [
+            "2021",
+            "8",
+            "6"
+          ],
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ala Nemerenco"
+          },
+          "office": {
+            "text": "Minister of Health",
+            "links": [
+              {
+                "text": "Minister of Health",
+                "type": "internal",
+                "page": "Ministry of Health, Labour and Social Protection (Moldova)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 August 2021"
+          },
+          "predecessor": {
+            "text": "Viorica Dumbrăveanu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viorica Dumbrăveanu"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 21, 1959"
+          },
+          "president": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "24 December 2020"
+          },
+          "term_end2": {
+            "text": "6 August 2021"
+          },
+          "president2": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Healthcare Advisor to the President",
+            "links": [
+              {
+                "text": "President",
+                "type": "internal",
+                "page": "President of Moldova"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister of Health, Labour and Social Protection",
+            "links": [
+              {
+                "text": "Minister of Health, Labour and Social Protection",
+                "type": "internal",
+                "page": "Ministry of Health, Labour and Social Protection (Moldova)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "8 June 2019"
+          },
+          "term_end3": {
+            "text": "14 November 2019"
+          },
+          "president3": {
+            "text": "Igor Dodon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Igor Dodon"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Viorica Dumbrăveanu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viorica Dumbrăveanu"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Silvia Radu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Silvia Radu"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "last": "Caragacean",
+          "first": "Mihail",
+          "date": "8 June 2019",
+          "title": "CV-urile miniștrilor din noul Guvern. Ce funcții au ocupat anterior și în ce domenii au activat",
+          "language": "ro",
+          "work": "TV8 Moldova",
+          "url": "https://tv8.md/2019/06/08/cv-urile-ministrilor-din-noul-guvern-ce-functii-au-ocupat-anterior-si-in-ce-domenii-au-activat/",
+          "url-status": "live",
+          "access-date": "15 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Dascălu",
+          "first": "Ramona",
+          "date": "14 November 2019",
+          "title": "Ion Perju este noul ministru al Agriculturii din Republica Moldova",
+          "language": "ro",
+          "work": "Agrointeligența",
+          "url": "https://agrointel.ro/124732/ion-perju-ministru-al-agriculturii-republica-moldova/",
+          "url-status": "live",
+          "access-date": "14 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "15 November 2019",
+          "title": "Ion Chicu: \"Termenul tehnocrat pentru mine înseamnă Guvern concentrat pe nevoile şi grijile oamenilor\"",
+          "work": "TVR MOLDOVA",
+          "url": "http://tvrmoldova.md/politic/ion-chicu-termenul-tehnocrat-pentru-mine-inseamna-guvern-concentrat-pe-nevoile-si-grijile-oamenilor/",
+          "url-status": "live",
+          "access-date": "14 February 2021",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Viorica Dumbrăveanu",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Health",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "before": "Silvia Radu",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Health, Labour and Social Protection",
+          "years": "2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Viorica Dumbrăveanu",
+          "template": "s-aft"
+        },
+        {
+          "template": "sandu cabinet"
+        },
+        {
+          "template": "gavrilița cabinet"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "moldova-politician-stub"
+        }
+      ]
+    }
+  ]
+}
