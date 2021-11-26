@@ -95,6 +95,11 @@
           "day": "30",
           "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "text": "Tatiana Țaulean",
+          "lan1": "ro",
+          "template": "ill"
         }
       ],
       "infoboxes": [
