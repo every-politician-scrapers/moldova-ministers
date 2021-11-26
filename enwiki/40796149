@@ -655,6 +655,14 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Academia de Administrare Publică de pe lângă Președintele Republicii Moldova",
+          "lan1": "ro",
+          "lt": "Academy of Public Administration",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "url": "https://agora.md/stiri/24397/video--maia-sandu-apare-pentru-prima-oara-in-public-alaturi-de-mama-sa",
