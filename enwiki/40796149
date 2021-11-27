@@ -177,7 +177,7 @@
             "text": "File:Staatspräsidentin aus Moldau Maia Sandu in Wien 21.10.2021 (cropped).jpg"
           },
           "caption": {
-            "text": "Maia Sandu in October 2021 in Vienna, Austria"
+            "text": "Sandu in October 2021"
           },
           "order": {
             "text": "6th",
@@ -2895,6 +2895,261 @@
           "publisher": "Pro TV Chişinău",
           "template": "citation",
           "type": "av media"
+        }
+      ]
+    },
+    {
+      "title": "Electoral results",
+      "depth": 0
+    },
+    {
+      "title": "Parliamentary",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "Election": {
+              "text": "2019 (50th Constituency)",
+              "links": [
+                {
+                  "text": "2019",
+                  "type": "internal",
+                  "page": "2019 Moldovan parliamentary election"
+                }
+              ]
+            },
+            "Party": {
+              "text": "Party of Action and Solidarity",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Party of Action and Solidarity"
+                }
+              ]
+            },
+            "Votes": {
+              "text": "49.955",
+              "number": 49.955
+            },
+            "Percentage": {
+              "text": ""
+            },
+            "Position": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "80.78"
+          ],
+          "c": "#E6C300",
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Gold",
+            "1st"
+          ],
+          "template": "color box"
+        }
+      ]
+    },
+    {
+      "title": "Presidential",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "Election"
+            },
+            "col2": {
+              "text": "Party"
+            },
+            "col3": {
+              "text": "First round"
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": "Second round"
+            }
+          },
+          {
+            "col1": {
+              "text": "Election"
+            },
+            "col2": {
+              "text": "Party"
+            },
+            "col3": {
+              "text": "Votes"
+            },
+            "col4": {
+              "text": "Percentage"
+            },
+            "col5": {
+              "text": "Position"
+            },
+            "col6": {
+              "text": "Votes"
+            },
+            "col7": {
+              "text": "Percentage"
+            },
+            "col8": {
+              "text": "Position"
+            }
+          },
+          {
+            "col1": {
+              "text": "2016",
+              "number": 2016,
+              "links": [
+                {
+                  "text": "2016",
+                  "type": "internal",
+                  "page": "2016 Moldovan presidential election"
+                }
+              ]
+            },
+            "col2": {
+              "text": "Party of Action and Solidarity",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Party of Action and Solidarity"
+                }
+              ]
+            },
+            "col3": {
+              "text": "549.152",
+              "number": 549.152
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": "766.593",
+              "number": 766.593
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            }
+          },
+          {
+            "col1": {
+              "text": "2020",
+              "number": 2020,
+              "links": [
+                {
+                  "text": "2020",
+                  "type": "internal",
+                  "page": "2020 Moldovan presidential election"
+                }
+              ]
+            },
+            "col2": {
+              "text": "Party of Action and Solidarity",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Party of Action and Solidarity"
+                }
+              ]
+            },
+            "col3": {
+              "text": "439.866",
+              "number": 439.866
+            },
+            "col4": {
+              "text": ""
+            },
+            "col5": {
+              "text": ""
+            },
+            "col6": {
+              "text": "943.006",
+              "number": 943.006
+            },
+            "col7": {
+              "text": ""
+            },
+            "col8": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "templates": [
+        {
+          "list": [
+            "38.71"
+          ],
+          "c": "#E6C300",
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Silver",
+            "2nd"
+          ],
+          "template": "color box"
+        },
+        {
+          "list": [
+            "47.89"
+          ],
+          "c": "#E6C300",
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Silver",
+            "2nd"
+          ],
+          "template": "color box"
+        },
+        {
+          "list": [
+            "36.16"
+          ],
+          "c": "#E6C300",
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Gold",
+            "1st"
+          ],
+          "template": "color box"
+        },
+        {
+          "list": [
+            "57.72"
+          ],
+          "c": "#E6C300",
+          "template": "percentage bar"
+        },
+        {
+          "list": [
+            "Gold",
+            "1st"
+          ],
+          "template": "color box"
         }
       ]
     },
