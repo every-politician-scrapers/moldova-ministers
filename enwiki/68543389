@@ -142,21 +142,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "gavrilița cabinet"
-        },
-        {
-          "template": "moldova-politician-stub"
-        }
-      ]
     }
   ]
 }

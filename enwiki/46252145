@@ -241,59 +241,6 @@
           "type": "citation"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        }
-      ],
-      "templates": [
-        {
-          "template": "gavrilița cabinet"
-        },
-        {
-          "template": "sandu cabinet"
-        },
-        {
-          "template": "moldova-politician-stub"
-        }
-      ],
-      "lists": [
-        [
-          {
-            "text": "Personal website",
-            "links": [
-              {
-                "text": "Personal website",
-                "type": "external",
-                "site": "http://vlah.md"
-              }
-            ]
-          },
-          {
-            "text": "Profile on parliament's website",
-            "links": [
-              {
-                "text": "Profile on parliament's website",
-                "type": "external",
-                "site": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/42/language/ro-RO/Default.aspx"
-              }
-            ]
-          }
-        ]
-      ]
     }
   ]
 }

@@ -269,58 +269,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Viorica Dumbrăveanu",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Health",
-          "years": "2021–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "before": "Silvia Radu",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Health, Labour and Social Protection",
-          "years": "2019",
-          "template": "s-ttl"
-        },
-        {
-          "after": "Viorica Dumbrăveanu",
-          "template": "s-aft"
-        },
-        {
-          "template": "sandu cabinet"
-        },
-        {
-          "template": "gavrilița cabinet"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "moldova-politician-stub"
-        }
-      ]
     }
   ]
 }

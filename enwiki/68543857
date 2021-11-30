@@ -130,21 +130,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Note",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "gavrilița cabinet"
-        },
-        {
-          "template": "moldova-bio-stub"
-        }
-      ]
     }
   ]
 }

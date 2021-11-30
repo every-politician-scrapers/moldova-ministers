@@ -195,42 +195,6 @@
           "type": "news"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-off"
-        },
-        {
-          "before": "Fadei Nagacevschi",
-          "template": "s-bef"
-        },
-        {
-          "title": "Minister of Justice",
-          "years": "2021–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "gavrilița cabinet"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "moldova-politician-stub"
-        }
-      ]
     }
   ]
 }
