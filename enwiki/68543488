@@ -4,7 +4,7 @@
   "categories": [
     "1970 births",
     "Living people",
-    "Politicians from Chișinău",
+    "People from Călăraşi District",
     "Government ministers of Moldova"
   ],
   "sections": [
@@ -15,11 +15,12 @@
         {
           "sentences": [
             {
-              "text": "Anatolie Topală (born 27 October 1970 in Chișinău) is the Minister of Education and Research of the Republic of Moldova.",
+              "text": "Anatolie Topală (born 27 October 1970 in Sadova) is the Minister of Education and Research of the Republic of Moldova.",
               "links": [
                 {
+                  "text": "Sadova",
                   "type": "internal",
-                  "page": "Chișinău"
+                  "page": "Sadova, Călărași"
                 },
                 {
                   "text": "Minister of Education and Research",
