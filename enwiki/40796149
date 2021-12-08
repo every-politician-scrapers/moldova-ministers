@@ -193,7 +193,7 @@
             "text": "President of Moldova"
           },
           "primeminister": {
-            "text": "Ion Chicu (acting) Aureliu Ciocoi (acting) Natalia Gavrilița",
+            "text": "Ion Chicu (acting)\nAureliu Ciocoi (acting)\nNatalia Gavrilița",
             "links": [
               {
                 "type": "internal",
@@ -415,7 +415,7 @@
             ]
           },
           "party": {
-            "text": "Independent (2020−present)",
+            "text": "Independent (2020–present)",
             "links": [
               {
                 "text": "Independent",
@@ -425,7 +425,7 @@
             ]
           },
           "otherparty": {
-            "text": "Liberal Democratic Party (2014–2015) Party of Action and Solidarity (2016–2020)",
+            "text": "Liberal Democratic Party (2014–2015)\nParty of Action and Solidarity (2016–2020)",
             "links": [
               {
                 "text": "Liberal Democratic Party",
@@ -439,7 +439,7 @@
             ]
           },
           "citizenship": {
-            "text": "undefined 🇷🇴 romania",
+            "text": "undefined\n🇷🇴 romania",
             "links": [
               {
                 "text": "undefined",
@@ -464,7 +464,7 @@
             ]
           },
           "education": {
-            "text": "Academy of Economic Studies of Moldova Academy of Public Administration Harvard University",
+            "text": "Academy of Economic Studies of Moldova\nAcademy of Public Administration\nHarvard University",
             "links": [
               {
                 "type": "internal",
@@ -486,6 +486,9 @@
           "date": "9 December 2020",
           "access-date": "19 December 2020",
           "language": "ro",
+          "archive-date": "24 January 2021",
+          "archive-url": "https://web.archive.org/web/20210124144545/https://adevarul.ro/moldova/politica/maia-sandu-demisionat-fruntea-pas-1_5fd1294c5163ec4271bb6169/index.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -497,7 +500,10 @@
           "publisher": "Adevărul",
           "date": "10 November 2016",
           "url": "https://adevarul.ro/moldova/politica/alegeri-republica-moldova-maia-sandu-cetatenia-romana-dodon-interesele-tari-veti-apara-1_5824c7585ab6550cb8648424/index.html",
-          "accessdate": "10 November 2020",
+          "access-date": "10 November 2020",
+          "archive-date": "17 November 2020",
+          "archive-url": "https://web.archive.org/web/20201117201232/https://adevarul.ro/moldova/politica/alegeri-republica-moldova-maia-sandu-cetatenia-romana-dodon-interesele-tari-veti-apara-1_5824c7585ab6550cb8648424/index.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -506,6 +512,10 @@
           "title": "Moldova's fledgling government felled by no-confidence vote",
           "date": "12 November 2019",
           "website": "Reuters",
+          "access-date": "13 November 2019",
+          "archive-date": "13 November 2019",
+          "archive-url": "https://web.archive.org/web/20191113103351/https://www.reuters.com/article/us-moldova-politics/moldovas-fledgling-government-brought-down-by-no-confidence-vote-idUSKBN1XM1G4",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -515,6 +525,10 @@
           "newspaper": "G4Media.ro",
           "date": "16 November 2020",
           "language": "ro",
+          "access-date": "16 November 2020",
+          "archive-date": "17 November 2020",
+          "archive-url": "https://web.archive.org/web/20201117201304/https://www.g4media.ro/maia-sandu-aleasa-presedinte-al-republicii-moldova-victorie-detasata-in-fata-prorusului-dodon-la-peste-15-puncte-procentuale.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -524,6 +538,10 @@
           "date": "8 June 2019",
           "website": "protv.md",
           "language": "ro",
+          "access-date": "13 June 2019",
+          "archive-date": "17 September 2019",
+          "archive-url": "https://web.archive.org/web/20190917060034/http://protv.md/actualitate/maia-sandu-este-noul-prim-ministru-al-republicii-moldova-igor-dodon-a-semnat-decretul-foto---2494900.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -532,6 +550,9 @@
           "title": "Guvernul condus de Maia Sandu a fost demis. Dodon se apucă să-și facă propriul cabinet",
           "newspaper": "DW.COM",
           "access-date": "5 February 2020",
+          "archive-date": "5 February 2020",
+          "archive-url": "https://web.archive.org/web/20200205172703/https://www.dw.com/ro/guvernul-condus-de-maia-sandu-a-fost-demis-dodon-se-apuc%C4%83-s%C4%83-%C8%99i-fac%C4%83-propriul-cabinet/a-51212876",
+          "url-status": "live",
           "template": "citation",
           "type": "citation"
         },
@@ -541,6 +562,10 @@
           "date": "9 March 2019",
           "website": "constcourt.md",
           "language": "ro",
+          "access-date": "7 December 2021",
+          "archive-date": "17 September 2019",
+          "archive-url": "https://web.archive.org/web/20190917152734/http://www.constcourt.md/libview.php?l=ro&idc=7&id=1417&t=%2FMedia%2FNoutati%2FConfirmarea-rezultatelor-alegerilor-parlamentare-din-24-februarie-2019-si-validarea-mandatelor-de-deputat-de-catre-Curtea-Constitutionala-pentru-Parlamentul-de-legislatura-a-X-a",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -550,6 +575,10 @@
           "date": "26 July 2012",
           "website": "timpul.md",
           "language": "ro",
+          "access-date": "23 May 2019",
+          "archive-date": "7 June 2019",
+          "archive-url": "https://web.archive.org/web/20190607003251/https://www.timpul.md/articol/maia-sandu-a-preluat-atributiile-functiei-de-ministru-al-educatiei-35771.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -559,6 +588,10 @@
           "date": "8 July 2019",
           "website": "europalibera.org",
           "language": "ro",
+          "access-date": "12 July 2019",
+          "archive-date": "12 July 2019",
+          "archive-url": "https://web.archive.org/web/20190712160427/https://moldova.europalibera.org/a/30042829.html",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
