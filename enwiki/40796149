@@ -439,19 +439,7 @@
             ]
           },
           "citizenship": {
-            "text": "undefined\n🇷🇴 romania",
-            "links": [
-              {
-                "text": "undefined",
-                "type": "internal",
-                "page": "undefined"
-              },
-              {
-                "text": "romania",
-                "type": "internal",
-                "page": "romania"
-              }
-            ]
+            "text": "Moldova and Romania"
           },
           "residence": {
             "text": "Presidential Palace",
