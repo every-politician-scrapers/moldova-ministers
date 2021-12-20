@@ -157,7 +157,7 @@
             ]
           },
           "primeminister1": {
-            "text": "Pavel Filip Maia Sandu",
+            "text": "Pavel Filip\nMaia Sandu",
             "links": [
               {
                 "type": "internal",
@@ -255,7 +255,7 @@
             ]
           },
           "party": {
-            "text": "Moldovan Communist (2004–2012) Moldovan Socialist (2012–2019)",
+            "text": "Moldovan Communist (2004–2012)\nMoldovan Socialist (2012–2019)",
             "links": [
               {
                 "text": "Moldovan Communist",
@@ -320,7 +320,7 @@
             ]
           },
           "primeminister5": {
-            "text": "Vasile Tarlev Zinaida Greceanîi",
+            "text": "Vasile Tarlev\nZinaida Greceanîi",
             "links": [
               {
                 "type": "internal",
