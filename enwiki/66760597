@@ -260,7 +260,7 @@
             ]
           },
           "alma_mater": {
-            "text": "Moldova State University (LLB) Harvard University (MPP)",
+            "text": "Moldova State University (LLB)\nHarvard University (MPP)",
             "links": [
               {
                 "type": "internal",
@@ -292,7 +292,7 @@
             ]
           },
           "citizenship": {
-            "text": "undefined 🇷🇴 romania",
+            "text": "undefined\n🇷🇴 romania",
             "links": [
               {
                 "text": "undefined",
