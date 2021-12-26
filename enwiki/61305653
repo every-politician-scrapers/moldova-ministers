@@ -26,7 +26,7 @@
                 {
                   "text": "Minister of Foreign Affairs and European Integration of Moldova",
                   "type": "internal",
-                  "page": "Ministry_of_Foreign_Affairs_and_European_Integration_of_Moldova"
+                  "page": "Ministry of Foreign Affairs and European Integration (Moldova)"
                 },
                 {
                   "type": "internal",
@@ -35,10 +35,7 @@
               ],
               "formatting": {
                 "bold": [
-                  "Nicolae \"''Nicu''\" Popescu"
-                ],
-                "italic": [
-                  "Nicu"
+                  "Nicolae \"Nicu\" Popescu"
                 ]
               }
             },
