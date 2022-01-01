@@ -193,7 +193,7 @@
             "text": "President of Moldova"
           },
           "primeminister": {
-            "text": "Ion Chicu (acting)\nAureliu Ciocoi (acting)\nNatalia Gavrilița",
+            "text": "Ion Chicu\nAureliu Ciocoi (acting)\nNatalia Gavrilița",
             "links": [
               {
                 "type": "internal",
@@ -439,7 +439,19 @@
             ]
           },
           "citizenship": {
-            "text": "Moldova and Romania"
+            "text": "undefined\n🇷🇴 romania",
+            "links": [
+              {
+                "text": "undefined",
+                "type": "internal",
+                "page": "undefined"
+              },
+              {
+                "text": "romania",
+                "type": "internal",
+                "page": "romania"
+              }
+            ]
           },
           "residence": {
             "text": "Presidential Palace",
