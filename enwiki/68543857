@@ -111,24 +111,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://gov.md/ro/content/sergiu-prodan",
-          "title": "Sergiu Prodan - Ministrul Culturii &#124; GUVERNUL REPUBLICII MOLDOVA",
-          "website": "gov.md",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.zdg.md/en/?p=7698",
-          "title": "Information about the Ministers of the Future Government",
-          "first": "Cristina",
-          "last": "Carmanu",
-          "date": "August 3, 2021",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

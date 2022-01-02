@@ -310,54 +310,6 @@
             "text": "Economist"
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Necșuțu",
-          "first": "Mădălin",
-          "date": "8 February 2021",
-          "title": "In Moldova, New President Wrestles with Hostile Parliament",
-          "work": "Balkan Insight",
-          "url": "https://balkaninsight.com/2021/02/08/in-moldova-new-president-wrestles-with-hostile-parliament/",
-          "url-status": "live",
-          "access-date": "14 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Foundation",
-          "first": "Thomson Reuters",
-          "title": "Moldova parliament approves Natalia Gavrilita as new prime minister",
-          "url": "https://news.trust.org/item/20210806112519-ynyu0/",
-          "access-date": "2021-08-06",
-          "website": "news.trust.org",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Caragacean",
-          "first": "Mihail",
-          "date": "8 June 2019",
-          "title": "CV-urile miniștrilor din noul Guvern. Ce funcții au ocupat anterior și în ce domenii au activat",
-          "language": "ro",
-          "work": "TV8 Moldova",
-          "url": "https://tv8.md/2019/06/08/cv-urile-ministrilor-din-noul-guvern-ce-functii-au-ocupat-anterior-si-in-ce-domenii-au-activat/",
-          "url-status": "live",
-          "access-date": "15 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "15 June 2019",
-          "title": "Cine sunt miniștrii din Guvernul Sandu",
-          "work": "Ziarul de Gardă",
-          "url": "https://www.zdg.md/importante/guvernul-sandu/",
-          "url-status": "live",
-          "access-date": "14 February 2021",
-          "language": "ro",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

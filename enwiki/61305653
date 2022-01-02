@@ -275,33 +275,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.euronews.com/amp/2019/06/10/moldova-s-outgoing-government-doesn-t-want-to-leave-power-foreign-minister-designate-nicu",
-          "title": "'Moldova government unwilling to leave': Foreign minister-designate",
-          "date": "10 June 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://m.point.md/ru/novosti/politika/igor-dodon-provel-vstrechu-s-novym-ministrom-inostrannykh-del-nikolaem-popesku",
-          "title": "Игорь Додон провел встречу с новым министром иностранных дел Николаем Попеску",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://foreignpolicy.com/author/nicu-popescu/",
-          "title": "Nicu Popescu",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://russia-direct.org/profile/nicu-popescu",
-          "title": "Nicu Popescu &#124; Russia Direct",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

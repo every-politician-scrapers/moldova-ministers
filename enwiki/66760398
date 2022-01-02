@@ -230,45 +230,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Caragacean",
-          "first": "Mihail",
-          "date": "8 June 2019",
-          "title": "CV-urile miniștrilor din noul Guvern. Ce funcții au ocupat anterior și în ce domenii au activat",
-          "language": "ro",
-          "work": "TV8 Moldova",
-          "url": "https://tv8.md/2019/06/08/cv-urile-ministrilor-din-noul-guvern-ce-functii-au-ocupat-anterior-si-in-ce-domenii-au-activat/",
-          "url-status": "live",
-          "access-date": "15 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last": "Dascălu",
-          "first": "Ramona",
-          "date": "14 November 2019",
-          "title": "Ion Perju este noul ministru al Agriculturii din Republica Moldova",
-          "language": "ro",
-          "work": "Agrointeligența",
-          "url": "https://agrointel.ro/124732/ion-perju-ministru-al-agriculturii-republica-moldova/",
-          "url-status": "live",
-          "access-date": "14 February 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "15 November 2019",
-          "title": "Ion Chicu: \"Termenul tehnocrat pentru mine înseamnă Guvern concentrat pe nevoile şi grijile oamenilor\"",
-          "work": "TVR MOLDOVA",
-          "url": "http://tvrmoldova.md/politic/ion-chicu-termenul-tehnocrat-pentru-mine-inseamna-guvern-concentrat-pe-nevoile-si-grijile-oamenilor/",
-          "url-status": "live",
-          "access-date": "14 February 2021",
-          "language": "ro",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
