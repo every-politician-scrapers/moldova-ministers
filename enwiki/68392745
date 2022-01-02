@@ -115,27 +115,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.euronews.com/2021/07/23/moldova-s-new-government-has-an-old-problem-transnistria-can-it-solve-it",
-          "title": "Can Moldova's new government solve its oldest problem, Transnistria?",
-          "date": "23 July 2021",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://gov.md/ro/content/marcel-spatari",
-          "title": "Marcel Spatari - Ministrul Muncii și Protecției Sociale &#124; GUVERNUL REPUBLICII MOLDOVA",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -168,51 +168,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://gov.md/ro/content/iurie-turcanu",
-          "title": "Iurie Țurcanu",
-          "publisher": "Government of Moldova",
-          "accessdate": "25 December 2021",
-          "language": "ro",
-          "archive-url": "https://web.archive.org/web/20211206050443/https://gov.md/ro/content/iurie-turcanu",
-          "archive-date": "6 December 2021",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://agora.md/stiri/95880/interviu-e-semnatura-serviciile-online-si-votul-electronic-despre-digitalizare-cu-vicepremierul-iurie-turcanu-video",
-          "title": "INTERVIU {{!}} E-semnătura, serviciile online și votul electronic. Despre digitalizare, cu vicepremierul Iurie Țurcanu (VIDEO)",
-          "newspaper": "Agora",
-          "date": "29 November 2021",
-          "language": "ro",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://telegraph.md/republica-moldova-va-impulsiona-procesul-de-digitalizare-la-nivel-local/",
-          "title": "Republica Moldova va impulsiona procesul de digitalizare la nivel local",
-          "first": "Doina",
-          "last": "Puică",
-          "newspaper": "Telegraph Moldova",
-          "date": "9 September 2021",
-          "language": "ro",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://tv8.md/2021/12/14/cand-vom-putea-vota-electronic-detalii-de-la-viceprim-ministrul-pentru-digitalizare",
-          "title": "Când vom putea vota electronic. Detalii de la viceprim-ministrul pentru Digitalizare",
-          "first": "Marius",
-          "last": "Goraș",
-          "publisher": "TV8",
-          "date": "14 December 2021",
-          "language": "ro",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

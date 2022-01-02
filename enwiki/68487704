@@ -193,29 +193,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Ana Revenco",
-          "url": "https://mai.gov.md/ro/node/6141",
-          "url-status": "live",
-          "access-date": "16 August 2021",
-          "website": "Ministry of the Interior – Moldovan Government",
-          "language": "ro",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "6 August 2021",
-          "title": "Prime Minister, new cabinet sworn in",
-          "work": "Moldovan Government",
-          "url": "https://gov.md/en/content/prime-minister-new-cabinet-sworn",
-          "access-date": "16 August 2021",
-          "archive-url": "https://web.archive.org/web/20210816064303/https://gov.md/en/content/prime-minister-new-cabinet-sworn",
-          "archive-date": "6 August 2021",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]
