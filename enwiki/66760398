@@ -4,7 +4,6 @@
   "categories": [
     "Living people",
     "1959 births",
-    "Place of birth missing (living people)",
     "21st-century Moldovan politicians",
     "Women government ministers of Moldova",
     "21st-century women politicians",
@@ -141,6 +140,16 @@
           },
           "birth_date": {
             "text": "August 21, 1959"
+          },
+          "birth_place": {
+            "text": "Soloneț, Soroca District, Moldova",
+            "links": [
+              {
+                "text": "Soroca District, Moldova",
+                "type": "internal",
+                "page": "Soroca District"
+              }
+            ]
           },
           "president": {
             "text": "Maia Sandu",
