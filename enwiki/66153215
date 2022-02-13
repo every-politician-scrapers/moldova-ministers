@@ -116,7 +116,19 @@
             ]
           },
           "citizenship": {
-            "text": "Moldova Romania"
+            "text": "undefined 🇷🇴 romania",
+            "links": [
+              {
+                "text": "undefined",
+                "type": "internal",
+                "page": "undefined"
+              },
+              {
+                "text": "romania",
+                "type": "internal",
+                "page": "romania"
+              }
+            ]
           },
           "term_start3": {
             "text": "15 August 2012"
