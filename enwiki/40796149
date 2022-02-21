@@ -47,9 +47,13 @@
                   "Maia Sandu"
                 ]
               }
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "She is the former leader of the Party of Action and Solidarity (PAS) and former Prime Minister of Moldova from 8 June 2019 until 14 November 2019.",
+              "text": "Sandu is the former leader of the Party of Action and Solidarity (PAS) and former Prime Minister of Moldova from 8 June 2019 until 14 November 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -63,11 +67,7 @@
             },
             {
               "text": "On 12 November 2019, Sandu's government collapsed after a vote of no-confidence, with 63 (deputies from PSRM and PDM) of the 101 MPs having voted on the motion submitted by the PSRM."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "Sandu was Minister of Education from 2012 to 2015 and member of the Parliament of Moldova from 2014 to 2015, and again in 2019.",
               "links": [
@@ -82,7 +82,11 @@
                   "page": "Parliament of the Republic of Moldova"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
               "text": "She was selected as the joint candidate of the pro-European PPDA and PAS parties for President of Moldova in the 2016 election.",
               "links": [
@@ -126,11 +130,7 @@
                   "page": "Igor Dodon"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
               "text": "In a rematch between Dodon and Sandu in the 2020 election, she won the subsequent runoff, 58% to 42%, defeating Dodon.",
               "links": [
