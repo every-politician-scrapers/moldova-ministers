@@ -15,7 +15,7 @@
         {
           "sentences": [
             {
-              "text": "Dumitru Budianschi (born 2 September 1961 in Chișinău) is the Minister of Finance of the Republic of Moldova.",
+              "text": "Dumitru Budianschi (born 2 September 1961 in Chișinău, Moldova) is the Minister of Finance of the Republic of Moldova.",
               "links": [
                 {
                   "type": "internal",
@@ -55,10 +55,6 @@
         {
           "template": "ipac",
           "transcription": "pron,B,u,d,i,a,n,s,c,h,i"
-        },
-        {
-          "date": "October 2021",
-          "template": "fact"
         }
       ],
       "infoboxes": [

@@ -30,7 +30,7 @@
         {
           "sentences": [
             {
-              "text": "Maia Sandu (, born 24 May 1972) is a Moldovan politician and the current President of Moldova since 24 December 2020.",
+              "text": "Maia Sandu (, born 24 May 1972) is a Moldovan politician and the current president of Moldova since 24 December 2020.",
               "links": [
                 {
                   "text": "Moldovan",
@@ -38,8 +38,9 @@
                   "page": "Moldova"
                 },
                 {
+                  "text": "president of Moldova",
                   "type": "internal",
-                  "page": "President of Moldova"
+                  "page": "president of Moldova"
                 }
               ],
               "formatting": {
@@ -53,15 +54,16 @@
         {
           "sentences": [
             {
-              "text": "Sandu is the former leader of the Party of Action and Solidarity (PAS) and former Prime Minister of Moldova from 8 June 2019 until 14 November 2019.",
+              "text": "Sandu is the former leader of the Party of Action and Solidarity (PAS) and former prime minister of Moldova from 8 June 2019 until 14 November 2019.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Party of Action and Solidarity"
                 },
                 {
+                  "text": "prime minister of Moldova",
                   "type": "internal",
-                  "page": "Prime Minister of Moldova"
+                  "page": "prime minister of Moldova"
                 }
               ]
             },
@@ -88,7 +90,7 @@
         {
           "sentences": [
             {
-              "text": "She was selected as the joint candidate of the pro-European PPDA and PAS parties for President of Moldova in the 2016 election.",
+              "text": "She was selected as the joint candidate of the pro-European PPDA and PAS parties for president of Moldova in the 2016 election.",
               "links": [
                 {
                   "text": "pro-European",
@@ -104,11 +106,6 @@
                   "text": "PAS",
                   "type": "internal",
                   "page": "Party of Action and Solidarity"
-                },
-                {
-                  "text": "President of Moldova",
-                  "type": "internal",
-                  "page": "President of the Republic of Moldova"
                 },
                 {
                   "text": "2016 election",
