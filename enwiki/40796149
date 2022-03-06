@@ -177,14 +177,7 @@
             "text": "Sandu in June 2021"
           },
           "order": {
-            "text": "6th",
-            "links": [
-              {
-                "text": "6th",
-                "type": "internal",
-                "page": "President of Moldova"
-              }
-            ]
+            "text": "6th"
           },
           "office": {
             "text": "President of Moldova"
@@ -219,14 +212,7 @@
             ]
           },
           "order2": {
-            "text": "13th",
-            "links": [
-              {
-                "text": "13th",
-                "type": "internal",
-                "page": "Prime Minister of Moldova"
-              }
-            ]
+            "text": "13th"
           },
           "office2": {
             "text": "Prime Minister of Moldova"
