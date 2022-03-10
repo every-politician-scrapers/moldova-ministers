@@ -1,345 +1,39 @@
 {
-  "title": "Ion Ceban",
-  "pageID": 61784436,
-  "categories": [
-    "Living people",
-    "1980 births",
-    "Moldovan politicians",
-    "Government ministers of Moldova",
-    "Moldovan MPs 2010–2014",
-    "Party of Communists of the Republic of Moldova politicians",
-    "Party of Socialists of the Republic of Moldova politicians",
-    "Mayors of Chișinău"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ion Ceban (born June 30, 1980) is a Moldovan politician and the current mayor of Chișinău, the capital of Moldova.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chișinău"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ion Ceban"
-                ]
-              }
-            },
-            {
-              "text": "He is a member of the Party of Socialists of the Republic of Moldova (SPRM).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Party of Socialists of the Republic of Moldova"
-                }
-              ]
-            },
-            {
-              "text": "Ceban was a deputy chairman of the Moldovan parliament in 2019, and has served as a member of parliament in 3 legislatures.",
-              "links": [
-                {
-                  "text": "Moldovan parliament",
-                  "type": "internal",
-                  "page": "Parliament of the Republic of Moldova"
-                }
-              ]
-            },
-            {
-              "text": "He was formerly chairman of the fraction of the Party of Socialists of the Republic of Moldova at the Council of the Chișinău Municipality from 2015 to 2019 as the secretary responsible for the ideology of the Party of Socialists of the Republic of Moldova."
-            },
-            {
-              "text": "He has held different positions at the governmental level starting from the head of a department to deputy minister."
-            },
-            {
-              "text": "Ceban was a member of the Communist Party of the Republic of Moldova from 2004 to September 28, 2012, when the party, then headed by Vladimir Voronin governed.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Vladimir Voronin"
-                }
-              ]
-            },
-            {
-              "text": "He has participated proactively organized in the Republic of Moldova since 2009 by 2019."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Moldavian politician",
-          "template": "short description"
-        },
-        {
-          "reason": "The article is written in poor pidgin English and uses all-around bad grammar and spelling; it was clearly written by someone who speaks and comprehends very little English.",
-          "date": "December 2019",
-          "template": "cleanup"
-        },
-        {
-          "date": "September 2019",
-          "template": "like resume"
-        },
-        {
-          "template": "multiple issues"
-        },
-        {
-          "year": "1980",
-          "month": "6",
-          "day": "30",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "text": "Tatiana Țaulean",
-          "lan1": "ro",
-          "template": "ill"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ion Ceban"
-          },
-          "image": {
-            "text": "16.07.2019 Întrevederea vicepreședintelui Parlamentului Ion Ceban cu o delegație din Lituania, parte din Programul Regional IRI de Schimb Parlamentar (48299017576).jpg"
-          },
-          "caption": {
-            "text": "Ceban in 2019"
-          },
-          "office": {
-            "text": "Mayor of Chișinău"
-          },
-          "term_start": {
-            "text": "11 November 2019"
-          },
-          "predecessor": {
-            "text": "Andrei Năstase",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrei Năstase"
-              }
-            ]
-          },
-          "order": {
-            "text": "34th"
-          },
-          "office1": {
-            "text": "Deputy Speaker of the Moldovan Parliament",
-            "links": [
-              {
-                "text": "Deputy Speaker of the Moldovan Parliament",
-                "type": "internal",
-                "page": "Moldovan Parliament"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "8 June 2019"
-          },
-          "term_end1": {
-            "text": "14 November 2019"
-          },
-          "president1": {
-            "text": "Igor Dodon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Igor Dodon"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Pavel Filip\nMaia Sandu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pavel Filip"
-              },
-              {
-                "type": "internal",
-                "page": "Maia Sandu"
-              }
-            ]
-          },
-          "predecessor1": {
-            "text": "Valeriu Ghilețchi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Valeriu Ghilețchi"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Vlad Batrîncea",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vlad Batrîncea"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Moldovan Parliament",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Moldovan Parliament"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "24 February 2019"
-          },
-          "term_end2": {
-            "text": "14 November 2019"
-          },
-          "term_start3": {
-            "text": "5 June 2011"
-          },
-          "term_end3": {
-            "text": "21 July 2015"
-          },
-          "successor3": {
-            "text": "Adrian Lebedinschi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adrian Lebedinschi"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Member of the Chișinău Municipal Council",
-            "links": [
-              {
-                "text": "Chișinău Municipal Council",
-                "type": "internal",
-                "page": "Chișinău City Hall"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "21 July 2015"
-          },
-          "term_end4": {
-            "text": "11 April 2019"
-          },
-          "birth_date": {
-            "text": "June 30, 1980"
-          },
-          "birth_place": {
-            "text": "Chișinău, Moldovian SSR, Soviet Union",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chișinău"
-              },
-              {
-                "text": "Moldovian SSR",
-                "type": "internal",
-                "page": "Moldavian Soviet Socialist Republic"
-              },
-              {
-                "type": "internal",
-                "page": "Soviet Union"
-              }
-            ]
-          },
-          "party": {
-            "text": "Moldovan Communist (2004–2012)\nMoldovan Socialist (2012–2019)",
-            "links": [
-              {
-                "text": "Moldovan Communist",
-                "type": "internal",
-                "page": "Party of Communists of the Republic of Moldova"
-              },
-              {
-                "text": "Moldovan Socialist",
-                "type": "internal",
-                "page": "Party of Socialists of the Republic of Moldova"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Tatiana Țaulean"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "education": {
-            "text": "Technical University of Moldova",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Technical University of Moldova"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Mihail Paciu",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mihail Paciu"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Deputy Minister of Education and Youth",
-            "links": [
-              {
-                "text": "Deputy Minister of Education and Youth",
-                "type": "internal",
-                "page": "Ministry of Education, Culture and Research (Moldova)"
-              }
-            ]
-          },
-          "termstart5": {
-            "text": "21 November 2007"
-          },
-          "termend5": {
-            "text": "25 April 2008"
-          },
-          "president5": {
-            "text": "Vladimir Voronin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vladimir Voronin"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Vasile Tarlev\nZinaida Greceanîi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vasile Tarlev"
-              },
-              {
-                "type": "internal",
-                "page": "Zinaida Greceanîi"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Galina Bulat"
-          },
-          "predecessor5": {
-            "text": "Viorelia Moldovan-Batrînac"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ion Ceban",
+  "image": "16.07.2019 Întrevederea vicepreședintelui Parlamentului Ion Ceban cu o delegație din Lituania, parte din Programul Regional IRI de Schimb Parlamentar (48299017576).jpg",
+  "caption": "Ceban in 2019",
+  "office": "Mayor of Chișinău",
+  "term_start": "11 November 2019",
+  "predecessor": "Andrei Năstase",
+  "order": "34th",
+  "office1": "Deputy Speaker of the Moldovan Parliament",
+  "term_start1": "8 June 2019",
+  "term_end1": "14 November 2019",
+  "president1": "Igor Dodon",
+  "primeminister1": "Pavel Filip\nMaia Sandu",
+  "predecessor1": "Valeriu Ghilețchi",
+  "successor1": "Vlad Batrîncea",
+  "office2": "Member of the Moldovan Parliament",
+  "term_start2": "24 February 2019",
+  "term_end2": "14 November 2019",
+  "term_start3": "5 June 2011",
+  "term_end3": "21 July 2015",
+  "successor3": "Adrian Lebedinschi",
+  "office4": "Member of the Chișinău Municipal Council",
+  "term_start4": "21 July 2015",
+  "term_end4": "11 April 2019",
+  "birth_date": "June 30, 1980",
+  "birth_place": "Chișinău, Moldovian SSR, Soviet Union",
+  "party": "Moldovan Communist (2004–2012)\nMoldovan Socialist (2012–2019) National Alternative Movement (2021-present)",
+  "spouse": "Tatiana Țaulean",
+  "children": "2",
+  "education": "Technical University of Moldova",
+  "successor2": "Mihail Paciu",
+  "office5": "Deputy Minister of Education and Youth",
+  "termstart5": "21 November 2007",
+  "termend5": "25 April 2008",
+  "president5": "Vladimir Voronin",
+  "primeminister5": "Vasile Tarlev\nZinaida Greceanîi",
+  "successor5": "Galina Bulat",
+  "predecessor5": "Viorelia Moldovan-Batrînac"
 }
