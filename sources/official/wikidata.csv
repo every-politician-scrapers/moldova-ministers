@@ -1,6 +1,7 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,sourceDate,pid,position,start,psid
 Q105193792,Natalia Gavrilița,Natalia Gavrilița,female,1977-09-21,11,https://gov.md/en/profiles/team,2021-08-23,Q1769526,Prime Minister of the Republic of Moldova,2021-08-06,Q105193792-b4be87e5-4a3d-22de-759d-f7dbd4c83ee8
 Q106043267,Sergiu Litvinenco,Sergiu Litvinenco,male,1981-07-11,11,https://gov.md/en/profiles/team,2021-08-23,Q29693019,Minister of Justice,2021-08-06,Q106043267-4AF8E3C6-726F-4930-A7D9-F1395998F62C
+Q106140699,Vladimir Bolea,Vladimir Bolea,male,,,,,Q108219609,Minister of Agriculture and Food Industry,2022-07-08,Q106140699-BE53F3C6-004A-4316-8F5D-F3847DF92B26
 Q107812599,Marcel Spătari,Marcel Spatari,male,1981-08-13,11,https://gov.md/en/profiles/team,2021-08-23,Q108219604,Minister of Labor and Social Protection,2021-08-06,Q107812599-838C0678-ED5D-475D-B1EB-39178125C46A
 Q108009132,Ana Revenco,Ana Revenco,female,1977-05-21,11,https://gov.md/en/profiles/team,2021-08-23,Q108219544,Minister of Internal Affairs,2021-08-06,Q108009132-59A50606-A7BF-45F0-9A02-E883667D8F61
 Q108051533,Andrei Spînu,Andrei Spînu,male,1986-06-10,11,https://gov.md/en/profiles/team,2021-08-23,Q108084668,Minister of Infrastructure and Regional Development,2021-08-06,Q108051533-571fafd8-452e-abb8-db76-cf0f88cc2d31
@@ -8,7 +9,6 @@ Q108051533,Andrei Spînu,Andrei Spînu,male,1986-06-10,11,https://gov.md/en/prof
 Q108051891,Iurie Țurcanu,Iurie Țurcanu,male,1973-06-21,11,https://gov.md/en/profiles/team,2021-11-14,Q108219506,Deputy Prime Minister on Digitalization,2021-08-06,Q108051891-2ABBA90A-AE46-4997-8A17-E9B0EFCAED79
 Q108084522,Anatolie Topala,Anatolie Topală,male,1970-10-27,11,https://gov.md/en/profiles/team,2021-08-23,Q108084563,Minister of Education and Research,2021-08-06,Q108084522-f4b45f93-4dc7-e12b-2768-52b7324abb1e
 Q108213030,Iuliana Cantaragiu,Iuliana Cantaragiu,female,1975-07-02,11,https://gov.md/en/profiles/team,2021-08-23,Q108219572,Minister of the Environment,2021-08-05,Q108213030-0411BC33-92A1-4425-B1AB-8A4EA1EA227A
-Q108213032,Viorel Gherciu,Viorel Gherciu,male,1969-11-29,11,https://gov.md/en/profiles/team,2021-08-23,Q108219609,Minister of Agriculture and Food Industry,2021-08-05,Q108213032-CAE26612-0498-4A4D-BA3B-A412827FB9E7
 Q108213034,Sergiu Gaibu,Sergiu Gaibu,male,1976-05-13,11,https://gov.md/en/profiles/team,2021-08-23,Q24576259,Minister of Economy,2021-08-05,Q108213034-A4978899-01DC-4EB8-A1D5-7938B54FC93C
 Q108213037,Anatolie Nosatîi,Anatolie Nosatîi,male,1972-09-12,11,https://gov.md/en/profiles/team,2021-08-23,Q37807482,Minister of Defence,2021-08-01,Q108213037-CA6A0BE8-5BCE-4088-8574-D7BD8D9CA7F7
 Q108214555,Dumitru Budianschi,Dumitru Budianschi,male,1961-09-02,11,https://gov.md/en/profiles/team,2021-08-23,Q29933624,Minister of Finance,2021-08-05,Q108214555-14823E53-A74E-42B9-A69A-8A7C683A9FE9
