@@ -3,11 +3,13 @@
   "office": "Governor of Gagauzia",
   "predecessor": "Mihail Formuzal",
   "president": "Nicolae Timofti\nIgor Dodon\nMaia Sandu",
-  "office2": "Member of Moldovan Parliament",
+  "office2": "Member of the Moldovan Parliament",
   "birth_date": "February 26, 1974",
   "birth_place": "Comrat, Moldavian SSR, Soviet Union (now Gagauzia, Moldova)",
   "term_start": "15 April 2015",
   "term_start2": "17 March 2005",
   "term_end2": "30 April 2015",
-  "party": "Party of Socialists of the Republic of Moldova"
+  "party": "Party of Socialists of the Republic of Moldova",
+  "parliamentarygroup2": "Party of Communists",
+  "successor2": "Inna Șupac"
 }
