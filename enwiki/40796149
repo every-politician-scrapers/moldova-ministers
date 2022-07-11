@@ -30,8 +30,6 @@
   "party": "Independent (2020–present)",
   "otherparty": "Liberal Democratic Party (2014–2015)\nParty of Action and Solidarity (2016–2020)",
   "citizenship": "Moldova\nRomania",
-  "residence": "Presidential Palace",
-  "education": "Academy of Economic Studies of Moldova\nAcademy of Public Administration\nHarvard University",
   "president6": "Nicolae Timofti",
   "deputy2": "Andrei Năstase Vasilii Șova",
   "parliamentarygroup3": "Party of Action and Solidarity",
@@ -42,5 +40,6 @@
   "successor1": "Igor Grosu",
   "termstart1": "15 May 2016",
   "termend1": "10 December 2020",
-  "awards": "Order of Work Glory First Class Order of Prince Yaroslav the Wise Order of Vytautas the Great with the Golden Chain"
+  "awards": "Order of Work Glory First Class Order of Prince Yaroslav the Wise Order of Vytautas the Great with the Golden Chain",
+  "alma_mater": "Academy of Economic Studies of Moldova (BBM) Academy of Public Administration of Moldova (MIR) Harvard Kennedy School (MPP)"
 }
