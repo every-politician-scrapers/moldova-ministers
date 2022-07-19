@@ -1,0 +1,313 @@
+{
+  "title": "Irina Vlah",
+  "pageID": 46252145,
+  "categories": [
+    "1974 births",
+    "Gagauz people",
+    "People from Gagauzia",
+    "People from Comrat",
+    "Living people",
+    "Moldovan MPs 2005–2009",
+    "Moldovan female MPs",
+    "21st-century Moldovan women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Irina Vlah (born 26 February 1974) is a Moldovan politician.",
+              "links": [
+                {
+                  "text": "Moldovan",
+                  "type": "internal",
+                  "page": "Republic of Moldova"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Irina Vlah"
+                ]
+              }
+            },
+            {
+              "text": "She served as member of the Parliament of the Republic of Moldova from 2005 to 2009 and from 2014 to 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of the Republic of Moldova"
+                }
+              ]
+            },
+            {
+              "text": "Since 15 April 2015 she has been the Governor (Başkan) of the Autonomous Territorial Unit of Gagauzia (Gagauz Yeri).",
+              "links": [
+                {
+                  "text": "Autonomous Territorial Unit of Gagauzia",
+                  "type": "internal",
+                  "page": "Gagauzia"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Başkan",
+                  "Gagauz Yeri"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "According to the polls made in 2019 related to the most popular politicians in Moldova, Irina Vlah is on the 9th position among the top of politicians in which Moldovans have the highest trust."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "1": "Chiril Gaburici\nNatalia Gherman (acting)\nValeriu Streleț\nGheorghe Brega (acting)\nPavel Filip Maia Sandu Ion Chicu Aureliu Ciocoi (acting) Natalia Gavrilița",
+          "title": "See list",
+          "template": "list collapsed"
+        },
+        {
+          "year": "1974",
+          "month": "02",
+          "day": "26",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Irina Vlah"
+          },
+          "office": {
+            "text": "Governor of Gagauzia",
+            "links": [
+              {
+                "text": "Governor",
+                "type": "internal",
+                "page": "Governor of Gagauzia"
+              },
+              {
+                "type": "internal",
+                "page": "Gagauzia"
+              }
+            ]
+          },
+          "image": {
+            "text": "File:Ирина Влах 03 (29-07-2021).jpg"
+          },
+          "predecessor": {
+            "text": "Mihail Formuzal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mihail Formuzal"
+              }
+            ]
+          },
+          "president": {
+            "text": "Nicolae Timofti\nIgor Dodon\nMaia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicolae Timofti"
+              },
+              {
+                "type": "internal",
+                "page": "Igor Dodon"
+              },
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Moldovan Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moldovan Parliament"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 26, 1974"
+          },
+          "birth_place": {
+            "text": "Comrat, Moldavian SSR, Soviet Union (now Gagauzia, Moldova)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Comrat"
+              },
+              {
+                "text": "Moldavian SSR",
+                "type": "internal",
+                "page": "Moldavian Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              },
+              {
+                "type": "internal",
+                "page": "Gagauzia"
+              },
+              {
+                "type": "internal",
+                "page": "Moldova"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "15 April 2015"
+          },
+          "term_start2": {
+            "text": "17 March 2005"
+          },
+          "term_end2": {
+            "text": "30 April 2015"
+          },
+          "party": {
+            "text": "Party of Socialists of the Republic of Moldova",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Party of Socialists of the Republic of Moldova"
+              }
+            ]
+          },
+          "parliamentarygroup2": {
+            "text": "Party of Communists",
+            "links": [
+              {
+                "text": "Party of Communists",
+                "type": "internal",
+                "page": "Party of Communists of Moldova"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Inna Șupac",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Inna Șupac"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Vitalie Călugăreanu",
+          "title": "Irina Vlah este noul bașcan al \"Gagauz-Yeri\": \"Sunt gata să-i propun stabilitate Chișinăului!\"",
+          "newspaper": "Deutsche Welle",
+          "date": "23 March 2015",
+          "url": "http://www.dw.de/irina-vlah-este-noul-ba%C8%99can-al-gagauz-yeri-sunt-gata-s%C4%83-i-propun-stabilitate-chi%C8%99in%C4%83ului/a-18333472",
+          "access-date": "23 March 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "I. C.",
+          "title": "Candidatul susținut fățiș de Rusia, Irina Vlah, a câștigat alegerile din Găgăuzia",
+          "newspaper": "HotNews",
+          "date": "23 March 2015",
+          "url": "http://www.hotnews.ro/stiri-international-19718165-candidatul-sustinut-fatis-rusia-irina-vlah-castigat-alegerile-din-gagauzia.htm",
+          "access-date": "23 March 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://protv.md/stiri/actualitate/partidele-care-ar-ajunge-in-legislativ-daca-duminica-viitoare---2466841.html",
+          "title": "Partidele care ar ajunge in legislativ daca duminica viitoare ar avea loc alegeri parlamentare. Top trei politicieni care se bucura de cea mai mare incredere. Sondaj iData",
+          "newspaper": "protv.md",
+          "access-date": "February 18, 2019",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "url": "https://stiri.md/article/politica/sondaj-cine-sunt-politicienii-in-care-moldovenii-au-cea-mai-mare-incredere",
+          "title": "Sondaj: Cine sunt politicienii în care moldovenii au cea mai mare încredere",
+          "newspaper": "stiri.md",
+          "access-date": "February 18, 2019",
+          "template": "citation",
+          "type": "citation"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "gavrilița cabinet"
+        },
+        {
+          "template": "sandu cabinet"
+        },
+        {
+          "template": "moldova-politician-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Personal website",
+            "links": [
+              {
+                "text": "Personal website",
+                "type": "external",
+                "site": "http://vlah.md"
+              }
+            ]
+          },
+          {
+            "text": "Profile on parliament's website",
+            "links": [
+              {
+                "text": "Profile on parliament's website",
+                "type": "external",
+                "site": "http://www.parlament.md/StructuraParlamentului/Deputies/tabid/87/Id/42/language/ro-RO/Default.aspx"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

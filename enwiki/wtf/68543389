@@ -1,0 +1,252 @@
+{
+  "title": "Iurie Țurcanu",
+  "pageID": 68543389,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "21st-century Moldovan politicians",
+    "Government ministers of Moldova"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Iurie Țurcanu (born 21 June 1973) is a Moldovan politician.",
+              "links": [
+                {
+                  "text": "Moldovan",
+                  "type": "internal",
+                  "page": "Moldova"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Iurie Țurcanu"
+                ]
+              }
+            },
+            {
+              "text": "He was born in Corlăteni, in the Rîșcani District.",
+              "links": [
+                {
+                  "text": "Corlăteni",
+                  "type": "internal",
+                  "page": "Corlăteni, Rîșcani"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rîșcani District"
+                }
+              ]
+            },
+            {
+              "text": "Țurcanu currently is the Deputy Prime Minister for Digitalization of Moldova.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Prime Minister for Digitalization"
+                }
+              ]
+            },
+            {
+              "text": "This post was created on 6 August 2021 and is responsible for coordinating the activities of three Moldovan institutions: the E-Governance Agency, the Public Services Agency and the Information Technology and Cyber Security Service."
+            },
+            {
+              "text": "In September 2021, Țurcanu represented Moldova at the international conference Connecting Municipalities in Digital Era: Best practices from the EU and talked about the problems and objectives of Moldova in the digital realm.",
+              "formatting": {
+                "italic": [
+                  "Connecting Municipalities in Digital Era: Best practices from the EU"
+                ]
+              }
+            },
+            {
+              "text": "Later, in December 2021, Țurcanu said that, during the tenure of the Gavrilița Cabinet, it is possible that Moldovans could start to engage on electronic voting, although he did not give guarantees for members of the Moldovan diaspora.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gavrilița Cabinet"
+                },
+                {
+                  "text": "electronic voting",
+                  "type": "internal",
+                  "page": "electronic voting"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moldovan diaspora"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1973",
+          "month": "06",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "template": "ipac",
+          "transcription": "pron,',I,u,r,i,.,e,_,Ț,u,r,',c,a,n,u"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Iurie Țurcanu"
+          },
+          "office1": {
+            "text": "Deputy Prime Minister for Digitalization",
+            "links": [
+              {
+                "text": "Deputy Prime Minister for Digitalization",
+                "type": "internal",
+                "page": "Cabinet of Moldova"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "6 August 2021"
+          },
+          "birth_date": {
+            "text": "June 21, 1973"
+          },
+          "birth_place": {
+            "text": "Corlăteni, Rîșcani District, Moldavian SSR, Soviet Union",
+            "links": [
+              {
+                "text": "Corlăteni",
+                "type": "internal",
+                "page": "Corlăteni, Rîșcani"
+              },
+              {
+                "type": "internal",
+                "page": "Rîșcani District"
+              },
+              {
+                "text": "Moldavian SSR",
+                "type": "internal",
+                "page": "Moldavian Soviet Socialist Republic"
+              },
+              {
+                "type": "internal",
+                "page": "Soviet Union"
+              }
+            ]
+          },
+          "president1": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Technical University of Moldova (BCS) Technical University of Moldova (MCS)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Technical University of Moldova"
+              },
+              {
+                "text": "BCS",
+                "type": "internal",
+                "page": "Bachelor of Computer Science"
+              },
+              {
+                "type": "internal",
+                "page": "Technical University of Moldova"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://gov.md/ro/content/iurie-turcanu",
+          "title": "Iurie Țurcanu",
+          "publisher": "Government of Moldova",
+          "accessdate": "25 December 2021",
+          "language": "ro",
+          "archive-url": "https://web.archive.org/web/20211206050443/https://gov.md/ro/content/iurie-turcanu",
+          "archive-date": "6 December 2021",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://agora.md/stiri/95880/interviu-e-semnatura-serviciile-online-si-votul-electronic-despre-digitalizare-cu-vicepremierul-iurie-turcanu-video",
+          "title": "INTERVIU {{!}} E-semnătura, serviciile online și votul electronic. Despre digitalizare, cu vicepremierul Iurie Țurcanu (VIDEO)",
+          "newspaper": "Agora",
+          "date": "29 November 2021",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://telegraph.md/republica-moldova-va-impulsiona-procesul-de-digitalizare-la-nivel-local/",
+          "title": "Republica Moldova va impulsiona procesul de digitalizare la nivel local",
+          "first": "Doina",
+          "last": "Puică",
+          "newspaper": "Telegraph Moldova",
+          "date": "9 September 2021",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://tv8.md/2021/12/14/cand-vom-putea-vota-electronic-detalii-de-la-viceprim-ministrul-pentru-digitalizare",
+          "title": "Când vom putea vota electronic. Detalii de la viceprim-ministrul pentru Digitalizare",
+          "first": "Marius",
+          "last": "Goraș",
+          "publisher": "TV8",
+          "date": "14 December 2021",
+          "language": "ro",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "gavrilița cabinet"
+        }
+      ]
+    }
+  ]
+}

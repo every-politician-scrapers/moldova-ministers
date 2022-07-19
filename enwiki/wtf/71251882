@@ -1,0 +1,158 @@
+{
+  "title": "Vladimir Bolea",
+  "pageID": 71251882,
+  "categories": [],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vladimir Bolea is a Moldovan politician currently serving as the Minister of Agriculture and Food Industry in the Gavrilița Cabinet.",
+              "links": [
+                {
+                  "text": "Moldovan",
+                  "type": "internal",
+                  "page": "Moldova"
+                },
+                {
+                  "text": "Minister of Agriculture and Food Industry",
+                  "type": "internal",
+                  "page": "Ministry of Agriculture and Food Industry (Moldova)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gavrilița Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vladimir Bolea"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vladimir Bolea"
+          },
+          "office": {
+            "text": "Minister of Agriculture and Food Industry",
+            "links": [
+              {
+                "text": "Minister of Agriculture and Food Industry",
+                "type": "internal",
+                "page": "Ministry of Agriculture and Food Industry (Moldova)"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "8 July 2022"
+          },
+          "president": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Viorel Gherciu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Viorel Gherciu"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Member of the Moldovan Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moldovan Parliament"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "9 March 2019"
+          },
+          "termend1": {
+            "text": "8 July 2022"
+          },
+          "parliamentarygroup1": {
+            "text": "Party of Action and Solidarity",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Party of Action and Solidarity"
+              }
+            ]
+          },
+          "constituency1": {
+            "text": "Chișinău",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chișinău"
+              }
+            ]
+          },
+          "image": {
+            "text": "Vladimir Bolea 2020.jpg"
+          },
+          "caption": {
+            "text": "Bolea in 2020"
+          },
+          "successor1": {
+            "text": "Svetlana Dimitrioglo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Svetlana Dimitrioglo"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "July 2022",
+          "template": "citation style"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "https://www.parlament.md/StructuraParlamentului/Deputa%C8%9Bii/tabid/87/Id/804/language/en-US/Default.aspx"
+          }
+        ]
+      ]
+    }
+  ]
+}

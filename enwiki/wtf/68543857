@@ -1,0 +1,150 @@
+{
+  "title": "Sergiu Prodan",
+  "pageID": 68543857,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Politicians from Chișinău",
+    "Government ministers of Moldova"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sergiu Prodan (born 9 December 1963 in Chișinău) is a film director and the Minister of Culture of the Republic of Moldova.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chișinău"
+                },
+                {
+                  "text": "Minister of Culture",
+                  "type": "internal",
+                  "page": "Ministry of Culture (Moldova)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of Moldova"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sergiu Prodan"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "year": "1963",
+          "month": "12",
+          "day": "9",
+          "df": "yes",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sergiu Prodan"
+          },
+          "office": {
+            "text": "Minister of Culture",
+            "links": [
+              {
+                "text": "Minister of Culture",
+                "type": "internal",
+                "page": "Ministry of Culture (Moldova)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 August 2021"
+          },
+          "predecessor": {
+            "text": "Monica Babuc (2017)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Monica Babuc"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 9, 1963"
+          },
+          "birth_place": {
+            "text": "Moldovan SSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moldovan SSR"
+              }
+            ]
+          },
+          "president": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://gov.md/ro/content/sergiu-prodan",
+          "title": "Sergiu Prodan - Ministrul Culturii &#124; GUVERNUL REPUBLICII MOLDOVA",
+          "website": "gov.md",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.zdg.md/en/?p=7698",
+          "title": "Information about the Ministers of the Future Government",
+          "first": "Cristina",
+          "last": "Carmanu",
+          "date": "August 3, 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Note",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "gavrilița cabinet"
+        },
+        {
+          "template": "moldova-bio-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "title": "Sergiu Litvinenco",
+  "pageID": 68487638,
+  "categories": [
+    "Living people",
+    "Place of birth missing (living people)",
+    "Moldovan Ministers of Justice",
+    "21st-century Moldovan politicians",
+    "1981 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sergiu Litvinenco is a Moldovan politician.",
+              "links": [
+                {
+                  "text": "Moldovan",
+                  "type": "internal",
+                  "page": "Moldova"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sergiu Litvinenco"
+                ]
+              }
+            },
+            {
+              "text": "He serves as Minister of Justice in the cabinet of Prime Minister Natalia Gavrilița.",
+              "links": [
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Moldova)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Natalia Gavrilița"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Moldovan politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1981",
+          "month": "7",
+          "day": "11",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2021",
+            "8",
+            "6"
+          ],
+          "lc": "yes",
+          "since": "yes",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sergiu Litvinenco"
+          },
+          "image": {
+            "text": "17.03.2021 Cea de-a 56-a Reuniune a Comisiei pentru chestiuni economice, comerciale, tehnologice și ecologice a APCEMN (51045744001) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Litvinenco in 2021"
+          },
+          "office": {
+            "text": "Minister of Justice",
+            "links": [
+              {
+                "text": "Minister of Justice",
+                "type": "internal",
+                "page": "Ministry of Justice (Moldova)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Natalia Gavrilița",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Natalia Gavrilița"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "6 August 2021"
+          },
+          "predecessor": {
+            "text": "Fadei Nagacevschi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Fadei Nagacevschi"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 11, 1981"
+          },
+          "birth_place": {
+            "text": "Hîrtop, Cimișlia, Moldovan SSR, USSR",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hîrtop, Cimișlia"
+              },
+              {
+                "type": "internal",
+                "page": "Moldovan SSR"
+              },
+              {
+                "type": "internal",
+                "page": "USSR"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Academy of Economic Studies of Moldova",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Academy of Economic Studies of Moldova"
+              }
+            ]
+          },
+          "president": {
+            "text": "Maia Sandu",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maia Sandu"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Moldovan Parliament",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moldovan Parliament"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "9 March 2019"
+          },
+          "term_end2": {
+            "text": "8 September 2021"
+          },
+          "successor2": {
+            "text": "Evghenia Cojocari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Evghenia Cojocari"
+              }
+            ]
+          },
+          "parliamentarygroup2": {
+            "text": "Party of Action and Solidarity",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Party of Action and Solidarity"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "6 August 2021",
+          "title": "Prime Minister, new cabinet sworn in",
+          "work": "Moldovan Government",
+          "url": "https://gov.md/en/content/prime-minister-new-cabinet-sworn",
+          "access-date": "16 August 2021",
+          "archive-url": "https://web.archive.org/web/20210816064303/https://gov.md/en/content/prime-minister-new-cabinet-sworn",
+          "archive-date": "6 August 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Necșuțu",
+          "first": "Mădălin",
+          "date": "11 August 2021",
+          "title": "Moldova’s New Govt Warns Justice System: Change is Coming",
+          "work": "Balkan Insight",
+          "url": "https://balkaninsight.com/2021/08/11/moldovas-new-govt-warns-justice-system-change-is-coming/",
+          "access-date": "16 August 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Fadei Nagacevschi",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of Justice",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "gavrilița cabinet"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "moldova-politician-stub"
+        }
+      ]
+    }
+  ]
+}
