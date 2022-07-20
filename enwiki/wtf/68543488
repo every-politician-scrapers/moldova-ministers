@@ -115,6 +115,28 @@
               }
             ]
           },
+          "alma_mater": {
+            "text": "Moldova State University (BMath) Academy of Sciences of Moldova (PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moldova State University"
+              },
+              {
+                "text": "BMath",
+                "type": "internal",
+                "page": "Bachelor of Mathematics"
+              },
+              {
+                "type": "internal",
+                "page": "Academy of Sciences of Moldova"
+              },
+              {
+                "type": "internal",
+                "page": "PhD"
+              }
+            ]
+          },
           "president": {
             "text": "Maia Sandu",
             "links": [
