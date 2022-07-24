@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Oleg Serebrian (born 13 July 1969, Hădărăuți) is a Moldovan politician, writer, diplomat and political scientist (geopolitician), President of the Latin Union between 2010 and 2012.",
+              "text": "Oleg Serebrian (born 13 July 1969, Hădărăuți) is a Moldovan politician, writer, diplomat and political scientist, President of the Latin Union between 2010 and 2012.",
               "links": [
                 {
                   "type": "internal",
@@ -41,11 +41,6 @@
                   "text": "political scientist",
                   "type": "internal",
                   "page": "political scientist"
-                },
-                {
-                  "text": "geopolitician",
-                  "type": "internal",
-                  "page": "Geopolitics"
                 },
                 {
                   "type": "internal",
@@ -65,10 +60,6 @@
         {
           "description": "Moldovan politician",
           "template": "short description"
-        },
-        {
-          "date": "June 2019",
-          "template": "blp refimprove"
         },
         {
           "year": "1969",
