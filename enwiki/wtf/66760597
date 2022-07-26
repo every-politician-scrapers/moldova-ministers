@@ -375,14 +375,12 @@
           "type": "news"
         },
         {
-          "last": "Foundation",
-          "first": "Thomson Reuters",
-          "title": "Moldova parliament approves Natalia Gavrilita as new prime minister",
+          "work": "Thomson Reuters Foundation News",
+          "title": "Moldova Parliament Approves Natalia Gavrilita as New Prime Minister",
           "url": "https://news.trust.org/item/20210806112519-ynyu0/",
           "access-date": "2021-08-06",
-          "website": "news.trust.org",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "last": "Caragacean",
