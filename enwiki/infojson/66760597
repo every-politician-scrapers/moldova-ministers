@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Moldova)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2019-06-08",
+    "P1365": {
+      "links": [
+        "Ion Chicu"
+      ],
+      "stated_as": "Ion Chicu"
+    },
+    "P582": "2019-11-14",
+    "P1366": {
+      "links": [
+        "Sergiu Pușcuța"
+      ],
+      "stated_as": "Sergiu Pușcuța"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2021-07-23",
+    "P582": "2021-09-08",
+    "P1366": {
+      "links": [
+        "Ana Calinici"
+      ],
+      "stated_as": "Ana Calinici"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of Moldova"
+    },
+    "P1545": "15",
+    "P580": "2021-08-06",
+    "P1365": {
+      "links": [
+        "Aureliu Ciocoi"
+      ],
+      "stated_as": "Aureliu Ciocoi (acting)"
+    }
+  }
+]

@@ -1,0 +1,111 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Education, Culture and Research (Moldova)"
+      ],
+      "stated_as": "Minister of Education"
+    },
+    "P580": "2012-07-24",
+    "P1365": {
+      "links": [
+        "Mihail Șleahtițchi"
+      ],
+      "stated_as": "Mihail Șleahtițchi"
+    },
+    "P582": "2015-07-30",
+    "P1366": {
+      "links": [
+        "Corina Fusu"
+      ],
+      "stated_as": "Corina Fusu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2014-12-09",
+    "P582": "2015-02-20",
+    "P1366": {
+      "links": [
+        "Petru Știrbate"
+      ],
+      "stated_as": "Petru Știrbate"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Party of Action and Solidarity"
+      ],
+      "stated_as": "Leader of the Party of Action and Solidarity"
+    },
+    "P580": "2016-05-15",
+    "P582": "2020-12-10",
+    "P1366": {
+      "links": [
+        "Igor Grosu"
+      ],
+      "stated_as": "Igor Grosu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2019-03-09",
+    "P582": "2019-07-08",
+    "P1366": {
+      "links": [
+        "Galina Sajin"
+      ],
+      "stated_as": "Galina Sajin"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Prime Minister of Moldova"
+    },
+    "P1545": "13",
+    "P580": "2019-06-08",
+    "P1365": {
+      "links": [
+        "Pavel Filip"
+      ],
+      "stated_as": "Pavel Filip"
+    },
+    "P582": "2019-11-14",
+    "P1366": {
+      "links": [
+        "Ion Chicu"
+      ],
+      "stated_as": "Ion Chicu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "President of Moldova"
+    },
+    "P1545": "6",
+    "P580": "2020-12-24",
+    "P1365": {
+      "links": [
+        "Igor Dodon"
+      ],
+      "stated_as": "Igor Dodon"
+    }
+  }
+]

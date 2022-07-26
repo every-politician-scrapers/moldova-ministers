@@ -1,0 +1,104 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Education, Culture and Research (Moldova)"
+      ],
+      "stated_as": "Deputy Minister of Education and Youth"
+    },
+    "P580": "2007-11-21",
+    "P1365": {
+      "links": [
+        "Viorelia Moldovan-Batrînac"
+      ],
+      "stated_as": "Viorelia Moldovan-Batrînac"
+    },
+    "P582": "2008-04-25",
+    "P1366": {
+      "links": [
+        "Galina Bulat"
+      ],
+      "stated_as": "Galina Bulat"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2011-06-05",
+    "P582": "2015-07-21",
+    "P1366": {
+      "links": [
+        "Adrian Lebedinschi"
+      ],
+      "stated_as": "Adrian Lebedinschi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chișinău City Hall"
+      ],
+      "stated_as": "Member of the Chișinău Municipal Council"
+    },
+    "P580": "2015-07-21",
+    "P582": "2019-04-11"
+  },
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2019-03-09",
+    "P582": "2019-11-14",
+    "P1366": {
+      "links": [
+        "Mihail Paciu"
+      ],
+      "stated_as": "Mihail Paciu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Deputy Speaker of the Moldovan Parliament"
+    },
+    "P580": "2019-06-08",
+    "P1365": {
+      "links": [
+        "Valeriu Ghilețchi"
+      ],
+      "stated_as": "Valeriu Ghilețchi"
+    },
+    "P582": "2019-11-13",
+    "P1366": {
+      "links": [
+        "Vlad Batrîncea"
+      ],
+      "stated_as": "Vlad Batrîncea"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Mayor of Chișinău"
+    },
+    "P1545": "34",
+    "P580": "2019-11-11",
+    "P1365": {
+      "links": [
+        "Andrei Năstase"
+      ],
+      "stated_as": "Andrei Năstase"
+    }
+  }
+]

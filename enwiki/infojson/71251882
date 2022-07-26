@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2019-03-09",
+    "P582": "2022-07-08",
+    "P1366": {
+      "links": [
+        "Svetlana Dimitrioglo"
+      ],
+      "stated_as": "Svetlana Dimitrioglo"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Agriculture and Food Industry (Moldova)"
+      ],
+      "stated_as": "Minister of Agriculture and Food Industry"
+    },
+    "P580": "2022-07-08",
+    "P1365": {
+      "links": [
+        "Viorel Gherciu"
+      ],
+      "stated_as": "Viorel Gherciu"
+    }
+  }
+]

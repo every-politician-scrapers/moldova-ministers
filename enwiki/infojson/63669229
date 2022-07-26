@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chief of the General Staff (Moldova)"
+      ],
+      "stated_as": "Chief of the General Staff"
+    },
+    "P580": "2013",
+    "P1365": {
+      "links": [
+        "Vitalie Stoian"
+      ],
+      "stated_as": "Vitalie Stoian"
+    },
+    "P582": "2016-03-18",
+    "P1366": {
+      "links": [
+        "Igor Cutie"
+      ],
+      "stated_as": "Igor Cutie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Chief of the General Staff (Moldova)"
+      ],
+      "stated_as": "Chief of the General Staff"
+    },
+    "P580": "2019-07-01",
+    "P1365": {
+      "links": [
+        "Igor Cutie"
+      ],
+      "stated_as": "Igor Cutie"
+    }
+  }
+]

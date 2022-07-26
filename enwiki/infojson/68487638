@@ -1,0 +1,33 @@
+[
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2019-03-09",
+    "P582": "2021-09-08",
+    "P1366": {
+      "links": [
+        "Evghenia Cojocari"
+      ],
+      "stated_as": "Evghenia Cojocari"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Justice (Moldova)"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2021-08-06",
+    "P1365": {
+      "links": [
+        "Fadei Nagacevschi"
+      ],
+      "stated_as": "Fadei Nagacevschi"
+    }
+  }
+]

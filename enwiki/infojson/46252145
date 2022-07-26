@@ -1,0 +1,34 @@
+[
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2005-03-17",
+    "P582": "2015-04-30",
+    "P1366": {
+      "links": [
+        "Inna Șupac"
+      ],
+      "stated_as": "Inna Șupac"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governor of Gagauzia",
+        "Gagauzia"
+      ],
+      "stated_as": "Governor of Gagauzia"
+    },
+    "P580": "2015-04-15",
+    "P1365": {
+      "links": [
+        "Mihail Formuzal"
+      ],
+      "stated_as": "Mihail Formuzal"
+    }
+  }
+]

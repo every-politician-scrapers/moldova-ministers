@@ -1,0 +1,65 @@
+[
+  {
+    "office": {
+      "links": [
+        "Chișinău Municipal Council"
+      ],
+      "stated_as": "Member of the Chișinău Municipal Council"
+    },
+    "P580": "2015-07-13",
+    "P582": "2019-07-03",
+    "P1366": {
+      "links": [
+        "Victor Chironda"
+      ],
+      "stated_as": "Victor Chironda"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health, Labour and Social Protection (Moldova)"
+      ],
+      "stated_as": "Minister of Health, Labour and Social Protection"
+    },
+    "P580": "2019-06-08",
+    "P1365": {
+      "links": [
+        "Silvia Radu (politician)"
+      ],
+      "stated_as": "Silvia Radu"
+    },
+    "P582": "2019-11-14",
+    "P1366": {
+      "links": [
+        "Viorica Dumbrăveanu"
+      ],
+      "stated_as": "Viorica Dumbrăveanu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "President of Moldova"
+      ],
+      "stated_as": "Healthcare Advisor to the President"
+    },
+    "P580": "2020-12-24",
+    "P582": "2021-08-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health, Labour and Social Protection (Moldova)"
+      ],
+      "stated_as": "Minister of Health"
+    },
+    "P580": "2021-08-06",
+    "P1365": {
+      "links": [
+        "Viorica Dumbrăveanu"
+      ],
+      "stated_as": "Viorica Dumbrăveanu"
+    }
+  }
+]
