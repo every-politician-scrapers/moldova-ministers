@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Education and Research (Moldova)"
+      ],
+      "stated_as": "Secretary General of the Ministry of Education, Culture and Research"
+    },
+    "P580": "2019-11-01",
+    "P1365": {
+      "links": [
+        "Igor Șarov"
+      ],
+      "stated_as": "Igor Șarov"
+    },
+    "P582": "2021-08-06",
+    "P1366": {
+      "links": [
+        "Nadejda Velișco"
+      ],
+      "stated_as": "Nadejda Velișco"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education and Research (Moldova)"
+      ],
+      "stated_as": "Minister of Education and Research"
+    },
+    "P580": "2021-08-06",
+    "P1365": {
+      "links": [
+        "Lilia Pogolșa"
+      ],
+      "stated_as": "Lilia Pogolșa"
+    }
+  }
+]

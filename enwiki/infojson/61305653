@@ -1,0 +1,48 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs and European Integration (Moldova)"
+      ],
+      "stated_as": "Minister of Foreign Affairs and European Integration"
+    },
+    "P580": "2019-06-11",
+    "P1365": {
+      "links": [
+        "Tudor Ulianovschi"
+      ],
+      "stated_as": "Tudor Ulianovschi"
+    },
+    "P582": "2019-11-14",
+    "P1366": {
+      "links": [
+        "Aureliu Ciocoi"
+      ],
+      "stated_as": "Aureliu Ciocoi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Government of Moldova"
+      ],
+      "stated_as": "Deputy Prime Minister"
+    },
+    "P580": "2021-08-06"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Foreign Affairs and European Integration (Moldova)"
+      ],
+      "stated_as": "Minister of Foreign Affairs and European Integration"
+    },
+    "P580": "2021-08-06",
+    "P1365": {
+      "links": [
+        "Aureliu Ciocoi"
+      ],
+      "stated_as": "Aureliu Ciocoi"
+    }
+  }
+]

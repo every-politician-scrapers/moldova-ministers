@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Finance (Moldova)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2016-01-20",
+    "P1365": {
+      "links": [
+        "Anatol Arapu"
+      ],
+      "stated_as": "Anatol Arapu"
+    },
+    "P582": "2018-11-30",
+    "P1366": {
+      "links": [
+        "Ion Chicu"
+      ],
+      "stated_as": "Ion Chicu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "National Bank of Moldova"
+      ],
+      "stated_as": "4th Governor of the National Bank of Moldova"
+    },
+    "P580": "2018-11-30",
+    "P1365": {
+      "links": [
+        "Sergiu Cioclea"
+      ],
+      "stated_as": "Sergiu Cioclea"
+    }
+  }
+]

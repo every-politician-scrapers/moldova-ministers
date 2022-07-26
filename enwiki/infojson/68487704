@@ -1,0 +1,40 @@
+[
+  {
+    "office": {
+      "links": [
+        "Supreme Security Council",
+        "President of Moldova"
+      ],
+      "stated_as": "Secretary of the Supreme Security Council – Defense and National Security Advisor to the President"
+    },
+    "P580": "2021-01-21",
+    "P1365": {
+      "links": [
+        "Victor Gaiciuc"
+      ],
+      "stated_as": "Victor Gaiciuc"
+    },
+    "P582": "2021-09-02",
+    "P1366": {
+      "links": [
+        "Dorin Recean"
+      ],
+      "stated_as": "Dorin Recean"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Internal Affairs (Moldova)"
+      ],
+      "stated_as": "Minister of Internal Affairs"
+    },
+    "P580": "2021-08-06",
+    "P1365": {
+      "links": [
+        "Pavel Voicu"
+      ],
+      "stated_as": "Pavel Voicu"
+    }
+  }
+]

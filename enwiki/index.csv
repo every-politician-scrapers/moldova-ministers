@@ -1,23 +1,23 @@
-pageid,title
-2904896,Oleg Serebrian
-40796149,Maia Sandu
-46252145,Irina Vlah
-54041126,Octavian Armașu
-61305653,Nicu Popescu
-61784436,Ion Ceban
-63669229,Igor Gorgan
-66153215,Igor Grosu
-66760398,Ala Nemerenco
-66760597,Natalia Gavrilița
-68392745,Marcel Spatari
-68487638,Sergiu Litvinenco
-68487704,Ana Revenco
-68519250,Andrei Spînu
-68543389,Iurie Țurcanu
-68543463,Anatolie Nosatîi
-68543488,Anatolie Topală
-68543519,Sergiu Gaibu
-68543548,Iuliana Cantaragiu
-68543823,Dumitru Budianschi
-68543857,Sergiu Prodan
-71251882,Vladimir Bolea
+pageid,title,wikidata,label
+2904896,Oleg Serebrian,Q955070,Oleg Serebrian
+40796149,Maia Sandu,Q15071069,Maia Sandu
+46252145,Irina Vlah,Q12731069,Irina Vlah
+54041126,Octavian Armașu,Q29933420,Octavian Armașu
+61305653,Nicu Popescu,Q65640221,Nicu Popescu
+61784436,Ion Ceban,Q17336477,Ion Ceban
+63669229,Igor Gorgan,Q90752213,Igor Gorgan
+66153215,Igor Grosu,Q104374081,Igor Grosu
+66760398,Ala Nemerenco,Q12720160,Ala Nemerenco
+66760597,Natalia Gavrilița,Q105193792,Natalia Gavrilița
+68392745,Marcel Spatari,Q107812599,Marcel Spatari
+68487638,Sergiu Litvinenco,Q106043267,Sergiu Litvinenco
+68487704,Ana Revenco,Q108009132,Ana Revenco
+68519250,Andrei Spînu,Q108051533,Andrei Spînu
+68543389,Iurie Țurcanu,Q108051891,Iurie Țurcanu
+68543463,Anatolie Nosatîi,Q108213037,Anatolie Nosatîi
+68543488,Anatolie Topală,Q108084522,Anatolie Topală
+68543519,Sergiu Gaibu,Q108213034,Sergiu Gaibu
+68543548,Iuliana Cantaragiu,Q108213030,Iuliana Cantaragiu
+68543823,Dumitru Budianschi,Q108214555,Dumitru Budianschi
+68543857,Sergiu Prodan,Q108215636,Sergiu Prodan
+71251882,Vladimir Bolea,Q106140699,Vladimir Bolea

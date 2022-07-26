@@ -1,0 +1,57 @@
+[
+  {
+    "office": {
+      "links": [
+        "Ministry of Education, Culture and Research (Moldova)"
+      ],
+      "stated_as": "Deputy Minister of Education"
+    },
+    "P580": "2012-08-15",
+    "P582": "2015-08-12",
+    "P1366": {
+      "links": [
+        "Ion Șișcanu"
+      ],
+      "stated_as": "Ion Șișcanu"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament of the Republic of Moldova"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2019-03-09"
+  },
+  {
+    "office": {
+      "links": [
+        "President of the Moldovan Parliament"
+      ],
+      "stated_as": "13th President of the Moldovan Parliament"
+    },
+    "P580": "2021-07-29",
+    "P1365": {
+      "links": [
+        "Zinaida Greceanîi"
+      ],
+      "stated_as": "Zinaida Greceanîi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Party of Action and Solidarity"
+      ],
+      "stated_as": "Leader of the Party of Action and Solidarity"
+    },
+    "P580": "2022-05-15",
+    "P1365": {
+      "links": [
+        "Maia Sandu"
+      ],
+      "stated_as": "Maia Sandu"
+    }
+  }
+]

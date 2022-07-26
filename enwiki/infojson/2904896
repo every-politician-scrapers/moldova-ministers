@@ -1,0 +1,88 @@
+[
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2005-03-17",
+    "P582": "2009-04-22"
+  },
+  {
+    "office": {
+      "links": [
+        "Moldovan Parliament"
+      ],
+      "stated_as": "Member of the Moldovan Parliament"
+    },
+    "P580": "2009-08-14",
+    "P582": "2010-07-16",
+    "P1366": {
+      "links": [
+        "Vladimir Rotaru"
+      ],
+      "stated_as": "Vladimir Rotaru"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "France",
+        "Monaco"
+      ],
+      "stated_as": "Moldovan Ambassador to France and Monaco"
+    },
+    "P580": "2010-06-21",
+    "P1365": {
+      "links": [
+        "Victoria Iftodi"
+      ],
+      "stated_as": "Victoria Iftodi"
+    },
+    "P582": "2015-06-16",
+    "P1366": {
+      "links": [
+        "Lilian Moraru"
+      ],
+      "stated_as": "Lilian Moraru"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Embassy of Moldova, Berlin"
+      ],
+      "stated_as": "Moldovan Ambassador to Germany and Denmark"
+    },
+    "P580": "2015-11-05",
+    "P1365": {
+      "links": [
+        "Aureliu Ciocoi"
+      ],
+      "stated_as": "Aureliu Ciocoi"
+    },
+    "P582": "2021-12-20",
+    "P1366": {
+      "links": [
+        "Aureliu Ciocoi"
+      ],
+      "stated_as": "Aureliu Ciocoi"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Cabinet of Moldova"
+      ],
+      "stated_as": "Deputy Prime Minister for Reintegration"
+    },
+    "P580": "2022-01-19",
+    "P1365": {
+      "links": [
+        "Vladislav Kulminski"
+      ],
+      "stated_as": "Vladislav Kulminski"
+    }
+  }
+]
